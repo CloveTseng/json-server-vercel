@@ -1,8 +1,8 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "JSON Server API",
-        "description": "使用 JSON Server 提供的 RESTful API 文件",
+        "title": "餘味尋蹤 API",
+        "description": "project 餘味尋蹤 API 文件",
         "version": "1.0.0"
     },
     "servers": [
@@ -11,9 +11,20 @@
     }
     ],
     "paths": {
-    "/users": {
+    "/users/{id}": {
         "get": {
-            "summary": "取得所有使用者",
+            "summary": "所有使用者",
+            "parameters": [
+                {
+                "name": "id",
+                "in": "path",
+                "required": true,
+                "description": "使用者 ID",
+                "schema": {
+                    "type": "integer"
+                }
+                }
+            ],
             "responses": {
                 "200": {
                     "description": "成功取得使用者資料",
