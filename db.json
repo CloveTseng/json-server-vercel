@@ -1,6 +1,46 @@
 {"users": [
-    
+    { "id": 1, 
+    "email": "dYf3o@example.com",
+    "password": "123456",
+    "userId": 1 },
+    { "id": 2, 
+    "email": "qTQ2U@example.com",
+    "password": "77665934",
+    "userId": 2 },
+    { "id": 3, 
+    "email": "sjK4U@example.com",
+    "password": "77886655",
+    "userId": 3 }
   ],
+  "userSettings": [
+    { "id": 1, 
+    "userId": 1,
+    "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
+    "replyTitle": "回覆",
+    "replyContent": "回覆內容",
+    "phone": "0912345678",
+    "pickupCity": "台北市",
+    "pickupDistrict": "大安區",
+    "pickupAddress": "大安路一段7-11"},
+    { "id": 2,
+      "userId": 2,
+      "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
+      "replyTitle": "回覆", 
+      "replyContent": "回覆內容", 
+      "phone": "0912345678", 
+      "pickupCity": "台北市", 
+      "pickupDistrict": "內湖區", 
+      "pickupAddress": "文華路一段225號" },
+    { "id": 3,
+      "userId": 3,
+      "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
+      "replyTitle": "回覆", 
+      "replyContent": "回覆內容", 
+      "phone": "0912345678", 
+      "pickupCity": "新北市", 
+      "pickupDistrict": "新店區", 
+      "pickupAddress": "玫瑰路一段玫瑰莊園" }
+  ]
   "posts": [
     { "id": 1, "title": "json-server0915", "author": "typicode" }
   ],
