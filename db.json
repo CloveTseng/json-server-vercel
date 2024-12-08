@@ -43,7 +43,7 @@
       "pickupCity": "新北市", 
       "pickupDistrict": "新店區", 
       "pickupAddress": "玫瑰路一段玫瑰莊園" }
-  ]
+  ],
   "posts": [
     { "id": 1, "title": "json-server0915", "author": "typicode" }
   ],
