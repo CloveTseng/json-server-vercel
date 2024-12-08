@@ -1,0 +1,39 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "JSON Server API",
+        "description": "使用 JSON Server 提供的 RESTful API 文件",
+        "version": "1.0.0"
+    },
+    "servers": [
+    {
+        "url": "https://json-server-vercel-5mr9.onrender.com"
+    }
+    ],
+    "paths": {
+    "/users": {
+        "get": {
+            "summary": "取得所有使用者",
+            "responses": {
+                "200": {
+                    "description": "成功取得使用者資料",
+                    "content": {
+                    "application/json": {
+                    "schema": {
+                        "type": "array",
+                        "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": { "type": "integer" },
+                            "name": { "type": "string" }
+                        }
+                    }
+                    }
+                }
+                }
+            }
+            }
+        }
+        }
+    }
+}
