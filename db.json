@@ -15,6 +15,7 @@
   "userSettings": [
     { "id": 1, 
     "userId": 1,
+    "nickName": "街口阿勇",
     "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
     "replyTitle": "回覆",
     "replyContent": "回覆內容",
@@ -24,6 +25,7 @@
     "pickupAddress": "大安路一段7-11"},
     { "id": 2,
       "userId": 2,
+      "nickName": "努力生存的勇者",
       "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
       "replyTitle": "回覆", 
       "replyContent": "回覆內容", 
@@ -33,6 +35,7 @@
       "pickupAddress": "文華路一段225號" },
     { "id": 3,
       "userId": 3,
+      "nickName": "巷口阿美",
       "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
       "replyTitle": "回覆", 
       "replyContent": "回覆內容", 
