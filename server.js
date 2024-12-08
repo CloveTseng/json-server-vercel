@@ -30,8 +30,8 @@ server.use(router);
 // 启动服务器
 server.listen(3000, () => {
     console.log('JSON Server is running');
-    console.log('Swagger JSON available at: http://localhost:3000/swagger');
-    console.log('Swagger UI available at: http://localhost:3000/docs');
+    console.log('Swagger JSON available at: https://json-server-vercel-5mr9.onrender.com/swagger');
+    console.log('Swagger UI available at: https://json-server-vercel-5mr9.onrender.com/docs');
 });
 
 // Export the Server API
