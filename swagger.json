@@ -7,7 +7,7 @@
     },
     "servers": [
     {
-        "url": "https://json-server-vercel-5mr9.onrender.com"
+        "url": "https://json-server-vercel-5mr9.onrender.com/api"
     }
     ],
     "paths": {
