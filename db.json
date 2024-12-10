@@ -1,51 +1,45 @@
 {"users": [
-    { "id": 1, 
-    "email": "dYf3o@example.com",
-    "password": "123456",
-    "userId": 1 },
-    { "id": 2, 
-    "email": "qTQ2U@example.com",
-    "password": "77665934",
-    "userId": 2 },
-    { "id": 3, 
-    "email": "sjK4U@example.com",
-    "password": "77886655",
-    "userId": 3 }
-  ],
-  "userSettings": [
-    { "id": 1, 
-    "userId": 1,
-    "nickName": "街口阿勇",
-    "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
-    "replyTitle": "回覆",
-    "replyContent": "回覆內容",
-    "phone": "0912345678",
-    "pickupCity": "台北市",
-    "pickupDistrict": "大安區",
-    "pickupAddress": "大安路一段7-11"},
-    { "id": 2,
-      "userId": 2,
-      "nickName": "努力生存的勇者",
-      "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
-      "replyTitle": "回覆", 
-      "replyContent": "回覆內容", 
-      "phone": "0912345678", 
-      "pickupCity": "台北市", 
-      "pickupDistrict": "內湖區", 
-      "pickupAddress": "文華路一段225號" },
-    { "id": 3,
-      "userId": 3,
-      "nickName": "巷口阿美",
-      "avatarUrl": "https://s3.amazonaws.com/37assets/svn/765-default-avatar.png",
-      "replyTitle": "回覆", 
-      "replyContent": "回覆內容", 
-      "phone": "0912345678", 
-      "pickupCity": "新北市", 
-      "pickupDistrict": "新店區", 
-      "pickupAddress": "玫瑰路一段玫瑰莊園" }
+    {
+      "id": 1,
+      "email": "M5lFt@example.com",
+      "password": "123456",
+      "name": "Kit Loong",
+      "nickName": "Loong",
+      "phone": "0912345678",
+      "avatarUrl": "https://images.unsplash.com/photo-1733325155295-1e1a03eef910?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pickupCity": "台北市",
+      "pickupDistrict": "內湖區",
+      "introduce": "大家好",
+      "role": "admin"
+}
   ],
   "posts": [
-    { "id": 1, "title": "json-server0915", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "奢華午餐，尋找飢餓的你！",
+      "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
+      "food": {
+        "name": "高級便當們",
+        "type": ["主食"],
+        "saveMethod": ["冷藏"],
+        "totalQuantity": 25,
+        "expiryDate": "2024-12-31",
+        "isPastBestBefore": false,
+        "dietType": "non-vegetarian"
+      },
+      "reservedQuantity": 3,
+      "availableQuantity": 20,
+      "pickup": {
+        "city": "台北市",
+        "district": "內湖區",
+        "time": "14:00 - 16:00",
+        "addressDetail": "台台食材玫瑰大廳",
+        "instructions": "請到台台食材領取便當"
+      },
+      "tags": ["素食", "葷食", "主食", "冷藏", "未過期"],
+      "imagesUrl": ["https://example.com/image1.jpg"],
+      "userId": 1
+    }    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
