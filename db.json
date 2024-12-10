@@ -3,12 +3,12 @@
       "id": 1,
       "email": "M5lFt@example.com",
       "password": "123456",
-      "name": "Kit Loong",
-      "nickName": "Loong",
+      "name": "法國地頭蛇",
+      "nickName": "法國地頭蛇",
       "phone": "0912345678",
       "avatarUrl": "https://images.unsplash.com/photo-1733325155295-1e1a03eef910?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "pickupCity": "台北市",
-      "pickupDistrict": "內湖區",
+      "pickupDistrict": "信義區",
       "introduce": "大家好",
       "role": "admin"
 }
@@ -20,8 +20,8 @@
       "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
       "food": {
         "name": "高級便當們",
-        "type": ["主食"],
-        "saveMethod": ["冷藏"],
+        "type": "主食",
+        "saveMethod": "冷藏",
         "totalQuantity": 25,
         "expiryDate": "2024-12-31",
         "isPastBestBefore": false,
