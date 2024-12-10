@@ -25,7 +25,7 @@
         "totalQuantity": 25,
         "expiryDate": "2024-12-31",
         "isPastBestBefore": false,
-        "dietType": "non-vegetarian"
+        "dietType": "葷食"
       },
       "reservedQuantity": 3,
       "availableQuantity": 20,
@@ -36,7 +36,6 @@
         "addressDetail": "台台食材玫瑰大廳",
         "instructions": "請到台台食材領取便當"
       },
-      "tags": ["素食", "葷食", "主食", "冷藏", "未過期"],
       "imagesUrl": ["https://example.com/image1.jpg"],
       "userId": 1
     }    
