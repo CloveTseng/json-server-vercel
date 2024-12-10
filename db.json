@@ -33,8 +33,7 @@
         "city": "台北市",
         "district": "內湖區",
         "time": "14:00 - 16:00",
-        "addressDetail": "台台食材玫瑰大廳",
-        "instructions": "請到台台食材領取便當"
+        "address": "台台食材玫瑰大廳"
       },
       "imagesUrl": ["https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"],
       "userId": 1,
