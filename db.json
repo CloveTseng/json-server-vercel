@@ -3,7 +3,7 @@
       "id": 1,
       "email": "M5lFt@example.com",
       "password": "123456",
-      "name": "法國地頭蛇",
+      "name": "hee king",
       "nickName": "法國地頭蛇",
       "phone": "0912345678",
       "avatarUrl": "https://images.unsplash.com/photo-1733325155295-1e1a03eef910?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -11,7 +11,33 @@
       "pickupDistrict": "信義區",
       "introduce": "大家好",
       "role": "admin"
-}
+    },
+    {
+      "id": 2,
+      "email": "ffMwM@example.com",
+      "password": "22fhlx84",
+      "name": "陳大華",
+      "nickName": "伯朗大道",
+      "phone": "0934556473",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pickupCity": "台北市",
+      "pickupDistrict": "南港區",
+      "introduce": "愛喝咖啡的人",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "email": "ohwHw@example.com",
+      "password": "34055@hgodlhw",
+      "name": "李有名",
+      "nickName": "台北蒸煮丹",
+      "phone": "0989776876",
+      "avatarUrl": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pickupCity": "屏東市",
+      "pickupDistrict": "坊子區",
+      "introduce": "黑黑的我黑黑的情",
+      "role": "admin"
+    }
   ],
   "posts": [
     {
@@ -38,7 +64,32 @@
       "imagesUrl": ["https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"],
       "userId": 1,
       "postDate": "2024-12-10 14:00:00"
-    }    
+    },
+    {
+      "id": 2,
+      "title": "知名咖啡買一送一，有沒有人要幫忙喝",
+      "content": "我已經喝了一杯，再來一杯恐怕是要整晚失眠。有沒有在附近正好需要提神的朋友。星巴巴整天買一送一，單身狗一不小心就拿到兩杯了。",
+      "food": {
+        "name": "星巴巴普通無糖熱拿鐵",
+        "type": "飲料",
+        "saveMethod": "常溫",
+        "totalQuantity": 1,
+        "expiryDate": "2024-12-12",
+        "isPastBestBefore": false,
+        "dietType": "葷食"
+      },
+      "reservedQuantity": 0,
+      "availableQuantity": 0,
+      "pickup": {
+        "city": "台北市",
+        "district": "內湖區",
+        "time": "10:00 - 12:00",
+        "address": "我愛上班辦公大樓一樓管理員"
+      },
+      "imagesUrl": ["https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
+      "userId": 2,
+      "postDate": "2024-12-12 08:27:00"
+    }        
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
