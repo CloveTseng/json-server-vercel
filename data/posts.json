@@ -1,45 +1,5 @@
-{"users": [
-    {
-      "id": 1,
-      "email": "M5lFt@example.com",
-      "password": "123456",
-      "name": "hee king",
-      "nickName": "法國地頭蛇",
-      "phone": "0912345678",
-      "avatarUrl": "https://images.unsplash.com/photo-1733325155295-1e1a03eef910?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "pickupCity": "台北市",
-      "pickupDistrict": "信義區",
-      "introduce": "大家好",
-      "role": "admin"
-    },
-    {
-      "id": 2,
-      "email": "ffMwM@example.com",
-      "password": "22fhlx84",
-      "name": "陳大華",
-      "nickName": "伯朗大道",
-      "phone": "0934556473",
-      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "pickupCity": "台北市",
-      "pickupDistrict": "南港區",
-      "introduce": "愛喝咖啡的人",
-      "role": "admin"
-    },
-    {
-      "id": 3,
-      "email": "ohwHw@example.com",
-      "password": "34055@hgodlhw",
-      "name": "李有名",
-      "nickName": "台北蒸煮丹",
-      "phone": "0989776876",
-      "avatarUrl": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "pickupCity": "屏東市",
-      "pickupDistrict": "坊子區",
-      "introduce": "黑黑的我黑黑的情",
-      "role": "admin"
-    }
-  ],
-  "posts": [
+{
+    "posts": [
     {
       "id": 1,
       "redeemCode": "1234",
@@ -92,9 +52,5 @@
       "userId": 2,
       "postDate": "2024-12-12 08:27:00"
     }        
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  ]
 }
