@@ -1,37 +1,16 @@
-## Deploy JSON Server to Vercel
+# 大家一起 json-server
+## 第一步 - clone repo
+* 點擊 `code` 按鈕複製 url
+![clone-repo](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/clonerepo.png?alt=media&token=74a25d62-4cb2-4e6a-99ec-8cfd8b4a0fc6)
 
-A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
+* 到本地端 (自己的電腦) 下載這個 repo 之後，開啟這個資料夾 
+![](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/gitclone.png?alt=media&token=85c0e043-b6ea-473a-8022-86ecb899b901)
 
-Demo from this repository: 
+## 第二步 - 資料夾及檔案說明
+* 開啟檔案後找到 data 資料夾，裡面就是存放各個 `.json` 資料的地方
+![data-json](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/data-json.png?alt=media&token=473a0a71-b773-485c-b0e4-0c3851abc7b0)
+* 想要新增檔案的話，檔名依 `json-server` 的規定必需要加上 `s`，例如 `users.json` `posts.json` ...他可以自己去讀取到不同檔案的內容。(所以這裡不需要 db.json)
+* `.json` 檔案裡面也有相應的格式需要依尋：格式必需要是 `物件` 包 `陣列` 包 `物件` 的形式。
+![](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/jsondata.png?alt=media&token=e7c7f8d3-0096-4949-ba89-2f9e6021a319)
 
-1. https://json-server-in.vercel.app
-2. https://json-server-in.vercel.app/api/posts
-
-### How to use
-
-1. Click "**Use this template**" or clone this repository.
-2. Update or use the default [`db.json`](./db.json) in the repository.
-3. Sign Up or login into [Vercel](https://vercel.com).
-4. From the Vercel dashboard, click "**+ New Project**" then "**Import**" your repository.
-5. In the "**Configure Project**" screen, leave everything default and click "**Deploy**".
-6. Wait until deployment is done, and your own JSON server is ready to serve!
-
-## Default `db.json`
-
-```json
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
-```
-
-## Reference
-
-1. https://github.com/typicode/json-server
-2. https://vercel.com
-3. https://shadowsmith.com/how-to-deploy-an-express-api-to-vercel
+## 第三步 - json 檔寫好了然後呢？
