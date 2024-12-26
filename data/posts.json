@@ -14,8 +14,6 @@
         "isPastBestBefore": false,
         "dietType": "葷食"
       },
-      "reservedQuantity": 3,
-      "availableQuantity": 20,
       "pickup": {
         "city": "台北市",
         "district": "內湖區",
@@ -24,7 +22,7 @@
       },
       "imagesUrl": ["https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"],
       "userId": 1,
-      "postDate": "2024-12-10 14:00:00"
+      "createdPostDate": "2024-12-10 14:00:00"
     },
     {
       "id": 2,
@@ -40,8 +38,6 @@
         "isPastBestBefore": false,
         "dietType": "葷食"
       },
-      "reservedQuantity": 0,
-      "availableQuantity": 0,
       "pickup": {
         "city": "台北市",
         "district": "內湖區",
@@ -50,7 +46,215 @@
       },
       "imagesUrl": ["https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
       "userId": 2,
-      "postDate": "2024-12-12 08:27:00"
-    }        
+      "createdPostDate": "2024-12-12 08:27:00"
+    },
+    {
+      "id": 3,
+      "redeemCode": "9282",
+      "title": "豐富早餐，迎接活力一天！",
+      "content": "剛完成健康早餐的製作，有些多餘的分量，歡迎預訂！",
+      "food": {
+          "name": "豐富早餐",
+          "type": "主食",
+          "saveMethod": "常溫",
+          "totalQuantity": 26,
+          "expiryDate": "2024-12-28",
+          "isPastBestBefore": false,
+          "dietType": "葷食"
+      },
+      "pickup": {
+          "city": "桃園市",
+          "district": "八德區",
+          "time": "14:00 - 16:00",
+          "address": "愛心社區警衛室"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 3,
+      "createdPostDate": "2024-12-21 03:21:24"
+  },
+  {
+      "id": 4,
+      "redeemCode": "4626",
+      "title": "健康沙拉，滿足你的胃！",
+      "content": "意外多出幾份快速沙拉餐盒，完美解決午餐需求！",
+      "food": {
+          "name": "沙拉餐盒",
+          "type": "主食",
+          "saveMethod": "冷藏",
+          "totalQuantity": 13,
+          "expiryDate": "2025-01-01",
+          "isPastBestBefore": false,
+          "dietType": "素食"
+      },
+      "pickup": {
+          "city": "台中市",
+          "district": "西區",
+          "time": "14:00 - 16:00",
+          "address": "財就來大樓前台"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 1,
+      "createdPostDate": "2024-12-22 03:21:24"
+  },
+  {
+      "id": 5,
+      "redeemCode": "8085",
+      "title": "經典披薩，等著你來拿！",
+      "content": "今天活動有一些多餘的披薩，現在提供給需要的朋友！",
+      "food": {
+          "name": "必勝x經典披薩",
+          "type": "主食",
+          "saveMethod": "常溫",
+          "totalQuantity": 20,
+          "expiryDate": "2025-01-03",
+          "isPastBestBefore": false,
+          "dietType": "葷食"
+      },
+      "pickup": {
+          "city": "新北市",
+          "district": "新莊區",
+          "time": "14:00 - 16:00",
+          "address": "撫仁大學門口"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 3,
+      "createdPostDate": "2024-12-20 03:21:24"
+  },
+  {
+      "id": 6,
+      "redeemCode": "8494",
+      "title": "排隊甜點名店10x10 草莓蛋糕！",
+      "content": "今天有一些多餘的甜點，現在提供給需要的朋友！",
+      "food": {
+          "name": "10x10 甜點店排隊草莓蛋糕",
+          "type": "甜點",
+          "saveMethod": "冷藏",
+          "totalQuantity": 21,
+          "expiryDate": "2024-12-28",
+          "isPastBestBefore": false,
+          "dietType": "葷食"
+      },
+      "pickup": {
+          "city": "桃園市",
+          "district": "中壢區",
+          "time": "14:00 - 16:00",
+          "address": "中圓大學女宿"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 2,
+      "createdPostDate": "2024-12-20 03:21:24"
+  },
+  {
+      "id": 7,
+      "redeemCode": "1919",
+      "title": "好事多搶爆開心果可頌",
+      "content": "一盒有50顆吃不完啦，大家快來幫忙分",
+      "food": {
+          "name": "好事多搶爆開心果可頌",
+          "type": "甜點",
+          "saveMethod": "冷藏",
+          "totalQuantity": 21,
+          "expiryDate": "2024-12-29",
+          "isPastBestBefore": false,
+          "dietType": "葷食"
+      },
+      "pickup": {
+          "city": "新北市",
+          "district": "板橋區",
+          "time": "14:00 - 16:00",
+          "address": "豪野人才住的起社區大廳"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 1,
+      "createdPostDate": "2024-12-22 03:21:24"
+  },
+  {
+      "id": 8,
+      "redeemCode": "7913",
+      "title": "得到飲料店 - 紅玉烏龍全糖",
+      "content": "我點外送點錯數量了…現在有 20 杯想喝的快來帶走",
+      "food": {
+          "name": "紅玉烏龍全糖",
+          "type": "飲料",
+          "saveMethod": "冷藏",
+          "totalQuantity": 16,
+          "expiryDate": "2025-01-02",
+          "isPastBestBefore": false,
+          "dietType": "葷食"
+      },
+      "pickup": {
+          "city": "桃園市",
+          "district": "中壢區",
+          "time": "14:00 - 16:00",
+          "address": "中壢夜市 A5 攤位"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 2,
+      "createdPostDate": "2024-12-22 03:21:24"
+  },
+  {
+      "id": 9,
+      "redeemCode": "9005",
+      "title": "邊緣人是要怎麼買一送三，星爸爸焦糖瑪奇朵",
+      "content": "剛去買星爸爸結果今天有活動買一送三，邊緣人沒朋友多了三杯想要分給需要的人",
+      "food": {
+          "name": "星爸爸焦糖瑪奇朵",
+          "type": "飲料",
+          "saveMethod": "常溫",
+          "totalQuantity": 3,
+          "expiryDate": "2024-12-31",
+          "isPastBestBefore": false,
+          "dietType": "葷食"
+      },
+      "pickup": {
+          "city": "高雄市",
+          "district": "苓雅區",
+          "time": "14:00 - 16:00",
+          "address": "樂來百貨一樓星爸爸"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 2,
+      "createdPostDate": "2024-12-22 03:21:24"
+  },
+  {
+      "id": 10,
+      "redeemCode": "8113",
+      "title": "巨人披薩，等著你來拿！",
+      "content": "居然出了巨人披薩，真的有巨人這麼大共有 30 片，我一個人吃不完，有需要的人快來分",
+      "food": {
+          "name": "達快樂巨人披薩",
+          "type": "主食",
+          "saveMethod": "常溫",
+          "totalQuantity": 25,
+          "expiryDate": "2025-01-03",
+          "isPastBestBefore": false,
+          "dietType": "葷食"
+      },
+      "pickup": {
+          "city": "台南市",
+          "district": "安平區",
+          "time": "14:00 - 16:00",
+          "address": "平安廟口找廟公"
+      },
+      "imagesUrl": [
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "userId": 3,
+      "createdPostDate": "2024-12-24 03:21:24"
+  }        
   ]
 }

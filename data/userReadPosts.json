@@ -1,0 +1,8 @@
+{
+    "userReadPosts": [
+        { "id": 1, "user_id": 1, "post_id": 1, "is_read": true, "read_time": "2024-12-24 10:00:00" },
+        { "id": 2, "user_id": 2, "post_id": 1, "is_read": true, "read_time": "2024-12-24 11:00:00" },
+        { "id": 3, "user_id": 1, "post_id": 2, "is_read": false, "read_time": null }
+    ]
+    
+}
