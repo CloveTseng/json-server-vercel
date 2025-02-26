@@ -1,0 +1,7 @@
+{
+    "saveMethod": [
+        {"id": 1, "value": "normalTemperature", "type": "常溫"},
+        {"id": 2, "value": "refrigeration", "type": "冷藏"},
+        {"id": 3, "value": "freezing", "type": "冷凍"}
+    ]
+}
