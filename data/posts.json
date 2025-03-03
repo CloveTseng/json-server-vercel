@@ -246,7 +246,7 @@
           "type": "飲料",
           "saveMethod": "常溫",
           "totalQuantity": 3,
-          "RestQuantity": 0,
+          "restQuantity": 0,
           "expiryDate": "2024-12-22",
           "isPastBestBefore": false,
           "dietType": "葷食"
