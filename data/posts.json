@@ -10,6 +10,7 @@
         "type": "主食",
         "saveMethod": "冷藏",
         "totalQuantity": 25,
+        "RestQuantity": 20,
         "expiryDate": "2025-03-14",
         "isPastBestBefore": false,
         "dietType": "葷食"
@@ -37,6 +38,7 @@
         "type": "飲料",
         "saveMethod": "常溫",
         "totalQuantity": 1,
+        "RestQuantity": 1,
         "expiryDate": "2025-03-15",
         "isPastBestBefore": false,
         "dietType": "葷食"
@@ -64,6 +66,7 @@
           "type": "主食",
           "saveMethod": "常溫",
           "totalQuantity": 26,
+          "RestQuantity": 20,
           "expiryDate": "2025-03-15",
           "isPastBestBefore": false,
           "dietType": "葷食"
@@ -93,6 +96,7 @@
           "type": "主食",
           "saveMethod": "冷藏",
           "totalQuantity": 13,
+          "RestQuantity": 3,
           "expiryDate": "2025-01-01",
           "isPastBestBefore": false,
           "dietType": "素食"
@@ -122,6 +126,7 @@
           "type": "主食",
           "saveMethod": "常溫",
           "totalQuantity": 20,
+          "RestQuantity": 3,
           "expiryDate": "2025-02-20",
           "isPastBestBefore": false,
           "dietType": "葷食"
@@ -151,6 +156,7 @@
           "type": "甜點",
           "saveMethod": "冷藏",
           "totalQuantity": 21,
+          "RestQuantity": 20,
           "expiryDate": "2025-03-10",
           "isPastBestBefore": false,
           "dietType": "葷食"
@@ -180,6 +186,7 @@
           "type": "甜點",
           "saveMethod": "冷藏",
           "totalQuantity": 21,
+          "RestQuantity": 14,
           "expiryDate": "2025-02-18",
           "isPastBestBefore": false,
           "dietType": "葷食"
@@ -209,6 +216,7 @@
           "type": "飲料",
           "saveMethod": "冷藏",
           "totalQuantity": 16,
+          "RestQuantity": 0,
           "expiryDate": "2024-12-23",
           "isPastBestBefore": false,
           "dietType": "葷食"
@@ -238,6 +246,7 @@
           "type": "飲料",
           "saveMethod": "常溫",
           "totalQuantity": 3,
+          "RestQuantity": 0,
           "expiryDate": "2024-12-22",
           "isPastBestBefore": false,
           "dietType": "葷食"
@@ -267,6 +276,7 @@
           "type": "主食",
           "saveMethod": "常溫",
           "totalQuantity": 25,
+          "RestQuantity":0,
           "expiryDate": "2025-03-09",
           "isPastBestBefore": false,
           "dietType": "葷食"
