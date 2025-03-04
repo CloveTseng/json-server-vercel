@@ -6,6 +6,6 @@
         {"id": 4, "value":"fruit","type": "水果"},
         {"id": 5, "value":"snack","type": "零食"},
         {"id": 6, "value":"cooked","type": "熟食"},
-        {"id": 7, "value":"raw","type": "未烹飪食材"}
+        {"id": 7, "value":"raw","type": "生的食物"}
     ]
 }
