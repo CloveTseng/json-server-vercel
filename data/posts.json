@@ -16,10 +16,10 @@
         "dietType": "葷食"
       },
       "pickup": {
-        "city": "台北市",
+        "city": "臺北市",
         "district": "內湖區",
         "time": "14:00 - 16:00",
-        "address": "台台食材玫瑰大廳"
+        "address": "臺臺食材玫瑰大廳"
       },
       "imagesUrl": ["https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"],
       "viewCount": 178,
@@ -44,7 +44,7 @@
         "dietType": "葷食"
       },
       "pickup": {
-        "city": "台北市",
+        "city": "臺北市",
         "district": "內湖區",
         "time": "10:00 - 12:00",
         "address": "我愛上班辦公大樓一樓管理員"
@@ -102,10 +102,10 @@
           "dietType": "素食"
       },
       "pickup": {
-          "city": "台中市",
+          "city": "臺中市",
           "district": "西區",
           "time": "14:00 - 16:00",
-          "address": "財就來大樓前台"
+          "address": "財就來大樓前臺"
       },
       "imagesUrl": [
           "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
@@ -282,7 +282,7 @@
           "dietType": "葷食"
       },
       "pickup": {
-          "city": "台南市",
+          "city": "臺南市",
           "district": "安平區",
           "time": "14:00 - 16:00",
           "address": "平安廟口找廟公"
