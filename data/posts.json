@@ -12,7 +12,7 @@
         "totalQuantity": 25,
         "restQuantity": 20,
         "expiryDate": "2025-03-14",
-        "isPastBestBefore": false,
+        "isPastBestBefore": "no",
         "dietType": "葷食"
       },
       "pickup": {
@@ -40,7 +40,7 @@
         "totalQuantity": 1,
         "restQuantity": 1,
         "expiryDate": "2025-03-15",
-        "isPastBestBefore": false,
+        "isPastBestBefore": "no",
         "dietType": "葷食"
       },
       "pickup": {
@@ -68,7 +68,7 @@
           "totalQuantity": 26,
           "restQuantity": 20,
           "expiryDate": "2025-03-15",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -98,7 +98,7 @@
           "totalQuantity": 13,
           "restQuantity": 3,
           "expiryDate": "2025-01-01",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "素食"
       },
       "pickup": {
@@ -128,7 +128,7 @@
           "totalQuantity": 20,
           "restQuantity": 3,
           "expiryDate": "2025-02-20",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -158,7 +158,7 @@
           "totalQuantity": 21,
           "restQuantity": 20,
           "expiryDate": "2025-03-10",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -188,7 +188,7 @@
           "totalQuantity": 21,
           "restQuantity": 14,
           "expiryDate": "2025-02-18",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -219,7 +219,7 @@
           "totalQuantity": 16,
           "restQuantity": 0,
           "expiryDate": "2024-12-23",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -249,7 +249,7 @@
           "totalQuantity": 3,
           "restQuantity": 0,
           "expiryDate": "2024-12-22",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -279,7 +279,7 @@
           "totalQuantity": 25,
           "restQuantity":0,
           "expiryDate": "2025-03-09",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -310,7 +310,7 @@
           "totalQuantity": 10,
           "restQuantity":9,
           "expiryDate": "2025-03-11",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -340,7 +340,7 @@
           "totalQuantity": 20,
           "restQuantity":19,
           "expiryDate": "2025-03-14",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -370,7 +370,7 @@
           "totalQuantity": 15,
           "restQuantity":13,
           "expiryDate": "2025-03-14",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -400,7 +400,7 @@
           "totalQuantity": 18,
           "restQuantity":15,
           "expiryDate": "2025-03-11",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
@@ -430,7 +430,7 @@
           "totalQuantity": 25,
           "restQuantity":20,
           "expiryDate": "2025-03-15",
-          "isPastBestBefore": false,
+          "isPastBestBefore": "no",
           "dietType": "葷食"
       },
       "pickup": {
