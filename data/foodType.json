@@ -1,11 +1,11 @@
 {
     "foodTypes": [
-        {"id": 1, "value":"main", "type": "主食"},
-        {"id": 2, "value":"dessert","type": "甜點"},
-        {"id": 3, "value":"drink","type": "飲料"},
-        {"id": 4, "value":"fruit","type": "水果"},
-        {"id": 5, "value":"snack","type": "零食"},
-        {"id": 6, "value":"cooked","type": "熟食"},
-        {"id": 7, "value":"raw","type": "生的食物"}
+        {"id": 1, "value":"主食", "type": "主食"},
+        {"id": 2, "value":"甜點","type": "甜點"},
+        {"id": 3, "value":"飲料","type": "飲料"},
+        {"id": 4, "value":"水果","type": "水果"},
+        {"id": 5, "value":"零食","type": "零食"},
+        {"id": 6, "value":"熟食","type": "熟食"},
+        {"id": 7, "value":"生的食物","type": "生的食物"}
     ]
 }
