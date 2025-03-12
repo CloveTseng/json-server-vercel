@@ -59,6 +59,36 @@
         "replyMessage": "好的唷，快來拿吧",
         "status": "已同意",
         "created_time": "2025-03-14 15:15:12"
+    },
+    {
+        "id": 7,
+        "postId": 2,
+        "userId": 1,
+        "type": "領取通知",
+        "message": "我快睡著了，可以去領咖啡嗎",
+        "replyMessage": "哈囉~好久不見，可以的，老地方快來拿吧",
+        "status": "已同意",
+        "created_time": "2025-03-15 09:11:12"
+    },
+    {
+        "id": 8,
+        "postId": 12,
+        "userId": 1,
+        "type": "領取通知",
+        "message": "看起來超讚的!!居然有這麼多，我在附近馬上就可以去拿",
+        "replyMessage": "好哦~歡迎你來領取",
+        "status": "已同意",
+        "created_time": "2025-03-13 20:40:12"
+    },
+    {
+        "id": 9,
+        "postId": 12,
+        "userId": 1,
+        "type": "領取通知",
+        "message": "看起來超讚的!!居然有這麼多，我在附近馬上就可以去拿",
+        "replyMessage": "好哦~歡迎你來領取",
+        "status": "已同意",
+        "created_time": "2024-12-22 15:40:12"
     }
     ]
 }
