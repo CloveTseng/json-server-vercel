@@ -1,0 +1,64 @@
+{
+    "applications": [
+    {
+        "id": 1,
+        "postId": 15,
+        "userId": 16,
+        "type": "申請通知",
+        "message": "我想領取",
+        "replyMessage": "好的唷，快來拿吧",
+        "status": "已同意",
+        "created_time": "2025-03-15 11:45:13"
+    },
+    {
+        "id": 2,
+        "postId": 1,
+        "userId": 11,
+        "type": "領取通知",
+        "message": "我覺得很讚哎，剛好在附近，可以直接去拿嗎？",
+        "replyMessage": "可以的可以的，我就在警衛室門口快來",
+        "status": "已同意",
+        "created_time": "2025-03-14 17:45:13"
+    },
+    {
+        "id": 3,
+        "postId": 1,
+        "userId": 12,
+        "type": "申請通知",
+        "message": "我想領取",
+        "replyMessage": "好的唷，快來拿吧",
+        "status": "已同意",
+        "created_time": "2025-03-15 12:35:12"
+    },
+    {
+        "id": 4,
+        "postId": 1,
+        "userId": 18,
+        "type": "申請通知",
+        "message": "你好，感謝你的分享，我很喜歡這個食物，想領取",
+        "replyMessage": "好的唷，快來拿吧",
+        "status": "已同意",
+        "created_time": "2025-03-15 13:15:12"
+    },
+    {
+        "id": 5,
+        "postId": 2,
+        "userId": 19,
+        "type": "申請通知",
+        "message": "你好，感謝你的分享，我很喜歡這個食物，想領取",
+        "replyMessage": "好的唷，快來拿吧",
+        "status": "已同意",
+        "created_time": "2025-03-15 09:15:12"
+    },
+    {
+        "id": 6,
+        "postId": 1,
+        "userId": 5,
+        "type": "申請通知",
+        "message": "有夠餓哎qq感謝你的分享，我是樓上公司的，可以去領取嗎？",
+        "replyMessage": "好的唷，快來拿吧",
+        "status": "已同意",
+        "created_time": "2025-03-14 15:15:12"
+    }
+    ]
+}
