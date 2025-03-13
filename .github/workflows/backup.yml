@@ -16,14 +16,14 @@ jobs:
         run: |
           mkdir -p data
           
-          for endpoint in applications comments feedbacks foodType likes posts saveMethod twCities userReadComments userReadPosts users; do
+          for endpoint in applications comments feedbacks foodTypes likes posts saveMethod twCities userReadComments userReadPosts users; do
             echo "Fetching $endpoint..."
             
             response=$(curl --write-out "%{http_code}" --silent --output "data/$endpoint.json" "https://json-server-vercel-5mr9.onrender.com/$endpoint")
 
             if [ "$response" -ne 200 ]; then
               echo "Error fetching $endpoint (HTTP Code: $response), restoring previous data."
-              git checkout -- "data/$endpoint.json"
+              git checkout -- "data/$endpoint.json" || echo "File does not exist, skipping restore."
             fi
           done
 
