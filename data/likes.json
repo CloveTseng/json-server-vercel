@@ -1,9 +1,7 @@
-{
-    "likes": [
-    {
-        "id": 1,
-        "postId": 1,
-        "userId": 1
-    }
-    ]
-}
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "userId": 1
+  }
+]

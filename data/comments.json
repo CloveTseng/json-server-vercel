@@ -1,92 +1,98 @@
-{
-    "comments": [
-    { 
-        "id": 1,
-        "postId": 3,
-        "userId": 1,
-        "type": "normal",
-        "comment": "想吃～但是太遠了QQ",
-        "createDate": "2024-12-10 14:00:00"
-    },
-    {
-        "id": 2,
-        "postId": 1,
-        "userId": 2,
-        "type": "rating",
-        "comment": "希望未來可以多一些素食的選擇～",
-        "createDate": "2024-12-18 04:18:50"
-    },
-    {
-        "id": 3,
-        "postId": 5,
-        "userId": 4,
-        "type": "normal",
-        "comment": "時間剛好，等一下就去拿！",
-        "createDate": "2024-12-20 04:18:50"
-    },
-    {
-        "id": 4,
-        "postId": 1,
-        "userId": 4,
-        "type": "rating",
-        "comment": "食物很新鮮，偷說 po 主是大正妹",
-        "createDate": "2024-12-19 04:18:50"
-    },
-    {
-        "id": 5,
-        "postId": 4,
-        "userId": 3,
-        "type": "normal",
-        "comment": "我可以幫朋友也一起領嗎？",
-        "createDate": "2024-12-22 04:18:50"
-    },
-    {
-        "id": 6,
-        "postId": 4,
-        "userId": 5,
-        "type": "normal",
-        "comment": "已申請領取希望可以通過！謝謝樓主的暖心舉動！",
-        "createDate": "2024-12-24 04:18:50"
-    },
-    {
-        "id": 7,
-        "postId": 5,
-        "userId": 4,
-        "type": "normal",
-        "comment": "啊啊啊啊啊 剛好今天開會不及買午餐，這家便當超好吃的",
-        "createDate": "2024-12-23 04:18:50"
-    },
-    {
-        "id": 8,
-        "postId": 2,
-        "userId": 3,
-        "type": "normal",
-        "comment": "這個甜點好吸引人，想去看看！",
-        "createDate": "2024-12-20 04:18:50"
-    },
-    {
-        "id": 9,
-        "postId": 3,
-        "userId": 2,
-        "type": "rating",
-        "comment": "感謝分享，超好吃的！今天的午後因為你的分享變得更美好了~",
-        "createDate": "2024-12-23 04:18:50"
-    },
-    {
-        "id": 10,
-        "postId": 3,
-        "userId": 3,
-        "type": "normal",
-        "comment": "這家超讚的，羨了",
-        "createDate": "2024-12-21 04:18:50"
-    },
-    {
-        "id": 11,
-        "postId": 4,
-        "userId": 4,
-        "type": "normal",
-        "comment": "看起來超誘人,期待有幸領取到~感恩分享!~",
-        "createDate": "2024-12-15 04:18:50"
-    }
-    ]
-}
+[
+  {
+    "id": 1,
+    "postId": 3,
+    "userId": 1,
+    "type": "normal",
+    "comment": "想吃～但是太遠了QQ",
+    "createDate": "2024-12-10 14:00:00"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "userId": 2,
+    "type": "rating",
+    "comment": "希望未來可以多一些素食的選擇～",
+    "createDate": "2024-12-18 04:18:50"
+  },
+  {
+    "id": 3,
+    "postId": 5,
+    "userId": 4,
+    "type": "normal",
+    "comment": "時間剛好，等一下就去拿！",
+    "createDate": "2024-12-20 04:18:50"
+  },
+  {
+    "id": 4,
+    "postId": 1,
+    "userId": 4,
+    "type": "rating",
+    "comment": "食物很新鮮，偷說 po 主是大正妹",
+    "createDate": "2024-12-19 04:18:50"
+  },
+  {
+    "id": 5,
+    "postId": 4,
+    "userId": 3,
+    "type": "normal",
+    "comment": "我可以幫朋友也一起領嗎？",
+    "createDate": "2024-12-22 04:18:50"
+  },
+  {
+    "id": 6,
+    "postId": 4,
+    "userId": 5,
+    "type": "normal",
+    "comment": "已申請領取希望可以通過！謝謝樓主的暖心舉動！",
+    "createDate": "2024-12-24 04:18:50"
+  },
+  {
+    "id": 7,
+    "postId": 5,
+    "userId": 4,
+    "type": "normal",
+    "comment": "啊啊啊啊啊 剛好今天開會不及買午餐，這家便當超好吃的",
+    "createDate": "2024-12-23 04:18:50"
+  },
+  {
+    "id": 8,
+    "postId": 2,
+    "userId": 3,
+    "type": "normal",
+    "comment": "這個甜點好吸引人，想去看看！",
+    "createDate": "2024-12-20 04:18:50"
+  },
+  {
+    "id": 9,
+    "postId": 3,
+    "userId": 2,
+    "type": "rating",
+    "comment": "感謝分享，超好吃的！今天的午後因為你的分享變得更美好了~",
+    "createDate": "2024-12-23 04:18:50"
+  },
+  {
+    "id": 10,
+    "postId": 3,
+    "userId": 3,
+    "type": "normal",
+    "comment": "這家超讚的，羨了",
+    "createDate": "2024-12-21 04:18:50"
+  },
+  {
+    "id": 11,
+    "postId": 4,
+    "userId": 4,
+    "type": "normal",
+    "comment": "看起來超誘人,期待有幸領取到~感恩分享!~",
+    "createDate": "2024-12-15 04:18:50"
+  },
+  {
+    "postId": "15",
+    "userId": 1,
+    "type": "normal",
+    "comment": "看起來太誘人啦",
+    "createDate": "2025-03-13 11:42:26",
+    "id": 12
+  }
+]

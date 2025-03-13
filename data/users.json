@@ -1,6 +1,5 @@
-{
-"users": [
-{
+[
+  {
     "id": 1,
     "email": "flavortrail@gmail.com",
     "password": "20250316",
@@ -11,8 +10,8 @@
     "pickupCity": "臺北市",
     "pickupDistrict": "信義區",
     "introduce": "大家好,我是頭蛇。無論是自己動手做的料理,還是發現的美味餐廳,我都樂於與朋友們分享這些美好的食物體驗。希望能夠通過分享美食,讓大家的生活更加豐富和快樂!😊"
-},
-{
+  },
+  {
     "id": 2,
     "email": "ffMwM@example.com",
     "password": "22fhlx84",
@@ -22,9 +21,9 @@
     "avatarUrl": "https://images.unsplash.com/photo-1487309078313-fad80c3ec1e5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QXNpYW58ZW58MHx8MHx8fDA%3D",
     "pickupCity": "臺北市",
     "pickupDistrict": "南港區",
-    "introduce": "愛喝咖啡的人"  
-},
-{
+    "introduce": "愛喝咖啡的人"
+  },
+  {
     "id": 3,
     "email": "ohwHw@example.com",
     "password": "34055godlhw",
@@ -35,8 +34,8 @@
     "pickupCity": "屏東市",
     "pickupDistrict": "坊子區",
     "introduce": "一碼歸一碼，伊隆馬"
-},
-{
+  },
+  {
     "id": 4,
     "email": "laichao@mo.net",
     "password": "+3f2SvJAHJ",
@@ -47,8 +46,8 @@
     "pickupCity": "新北市",
     "pickupDistrict": "板橋區",
     "introduce": "謀事在人，程式語言"
-},
-{
+  },
+  {
     "id": 5,
     "email": "bchang@hotmail.com",
     "password": "!Tgi1Y+cB3",
@@ -59,8 +58,8 @@
     "pickupCity": "高雄市",
     "pickupDistrict": "新營區",
     "introduce": "你越是這樣，悦氏礦泉水"
-},
-{
+  },
+  {
     "id": 6,
     "email": "uwei@hotmail.com",
     "password": "@1E)^n0Qny",
@@ -71,8 +70,8 @@
     "pickupCity": "新北市",
     "pickupDistrict": "樹林區",
     "introduce": "形而上學 不行退學"
-},
-{
+  },
+  {
     "id": 7,
     "email": "xiulan54@luo.tw",
     "password": "NNxJRiV4(0",
@@ -83,8 +82,8 @@
     "pickupCity": "臺中市",
     "pickupDistrict": "東區",
     "introduce": "這個世界很煩但你要很可愛"
-},
-{
+  },
+  {
     "id": 8,
     "email": "gang59@ma.org",
     "password": "Wn0AeWw5)c",
@@ -95,8 +94,8 @@
     "pickupCity": "臺中市",
     "pickupDistrict": "沙鹿區",
     "introduce": "尋找有趣的靈魂"
-},
-{
+  },
+  {
     "id": 9,
     "email": "ywen@zhang.com",
     "password": "*28)4D%lC&",
@@ -107,8 +106,8 @@
     "pickupCity": "臺南市",
     "pickupDistrict": "白河區",
     "introduce": "孤單的靈魂、孤單的我"
-},
-{
+  },
+  {
     "id": 10,
     "email": "bli@yahoo.com",
     "password": "do@2QSfejr",
@@ -119,8 +118,8 @@
     "pickupCity": "苗栗縣",
     "pickupDistrict": "苗栗市",
     "introduce": "誰與年少比輕狂，敢把愛情作天長。"
-},
-{
+  },
+  {
     "id": 11,
     "email": "panyang@yahoo.com",
     "password": "_j6Z%lFVz&",
@@ -131,8 +130,8 @@
     "pickupCity": "臺中市",
     "pickupDistrict": "豐原區",
     "introduce": "很多人因為寂寞而錯愛了一人，但更多的人因為錯愛了一人，而寂寞一生。"
-},
-{
+  },
+  {
     "id": 12,
     "email": "rduan@kang.com",
     "password": "6B16RIXK+t",
@@ -143,8 +142,8 @@
     "pickupCity": "嘉義縣",
     "pickupDistrict": "太保市",
     "introduce": "春早秋晚，歲歲平安。"
-},
-{
+  },
+  {
     "id": 13,
     "email": "guyong@yahoo.com",
     "password": "_0TJzerZJv",
@@ -155,8 +154,8 @@
     "pickupCity": "臺東縣",
     "pickupDistrict": "關山鎮",
     "introduce": "關山農會理事長 關山米乖乖團購"
-},
-{
+  },
+  {
     "id": 14,
     "email": "baiqiang@mao.net",
     "password": "7u988Lep*1",
@@ -167,8 +166,8 @@
     "pickupCity": "連江縣",
     "pickupDistrict": "南竿鄉",
     "introduce": "熱愛漫無邊際生活自有分寸"
-},
-{
+  },
+  {
     "id": 15,
     "email": "ming57@zhang.tw",
     "password": "xP8ZfpzE!Q",
@@ -179,8 +178,8 @@
     "pickupCity": "新北市",
     "pickupDistrict": "蘆洲區",
     "introduce": "Energy and persistent conquer all things."
-},
-{
+  },
+  {
     "id": 16,
     "email": "dcui@yahoo.com",
     "password": "&PlbB1Iq1h",
@@ -191,8 +190,8 @@
     "pickupCity": "臺中市",
     "pickupDistrict": "太平市",
     "introduce": "Have the ability to love oneself, have the strength to love others."
-},
-{
+  },
+  {
     "id": 17,
     "email": "xiama@yahoo.com",
     "password": "(R7Egicwqq",
@@ -203,8 +202,8 @@
     "pickupCity": "桃園市",
     "pickupDistrict": "中壢區",
     "introduce": "Don't let the past steal your present"
-},
-{
+  },
+  {
     "id": 18,
     "email": "shenxiulan@gmail.com",
     "password": "ym5S8Kzh^R",
@@ -215,8 +214,8 @@
     "pickupCity": "臺中市",
     "pickupDistrict": "西區",
     "introduce": "No cross, no crown."
-},
-{
+  },
+  {
     "id": 19,
     "email": "gangsun@hotmail.com",
     "password": "8$Iw03xJ(Z",
@@ -227,8 +226,8 @@
     "pickupCity": "臺北市",
     "pickupDistrict": "信義區",
     "introduce": "思念是一種病，解藥只能是你"
-},
-{
+  },
+  {
     "id": 20,
     "email": "liliang@peng.tw",
     "password": "7hfl9Kz1$6",
@@ -239,6 +238,5 @@
     "pickupCity": "新北市",
     "pickupDistrict": "永和區",
     "introduce": "情詩很美，但一句我愛你更美"
-}
+  }
 ]
-}
