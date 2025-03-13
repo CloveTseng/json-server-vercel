@@ -1,1 +1,454 @@
-{}
+[
+    {
+      "id": 1,
+      "redeemCode": "fhoelo",
+      "title": "奢華午餐，尋找飢餓的你！",
+      "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
+      "food": {
+        "name": "高級便當們",
+        "type": "主食",
+        "saveMethod": "冷藏",
+        "totalQuantity": 25,
+        "restQuantity": 20,
+        "expiryDate": "2025-03-14",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "臺北市",
+        "district": "內湖區",
+        "time": "14:00 - 16:00",
+        "address": "臺臺食材玫瑰大廳"
+      },
+      "imagesUrl": [
+        "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+      ],
+      "viewCount": 178,
+      "commentCount": 7,
+      "likeCount": 13,
+      "userId": 1,
+      "createdPostDate": "2025-03-14 14:00:00"
+    },
+    {
+      "id": 2,
+      "redeemCode": "gh39jd",
+      "title": "知名咖啡買一送一，有沒有人要幫忙喝",
+      "content": "我已經喝了一杯，再來一杯恐怕是要整晚失眠。有沒有在附近正好需要提神的朋友。星巴巴整天買一送一，單身狗一不小心就拿到兩杯了。",
+      "food": {
+        "name": "星巴巴普通無糖熱拿鐵",
+        "type": "飲料",
+        "saveMethod": "常溫",
+        "totalQuantity": 1,
+        "restQuantity": 1,
+        "expiryDate": "2025-03-15",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "臺北市",
+        "district": "內湖區",
+        "time": "10:00 - 12:00",
+        "address": "我愛上班辦公大樓一樓管理員"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1548364538-60b952c308b9?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHN0YXJidWNrc3xlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "viewCount": 255,
+      "commentCount": 13,
+      "likeCount": 25,
+      "userId": 2,
+      "createdPostDate": "2025-03-15 08:27:00"
+    },
+    {
+      "id": 3,
+      "redeemCode": "ghowr3",
+      "title": "豐富早餐，迎接活力一天！",
+      "content": "剛完成健康早餐的製作，有些多餘的分量，裡面有一些堅果、藍莓、鮭魚、貝比生菜再加上一些蔬菜，最後再灑上起司，自己準備一杯咖啡也是不錯的選擇。",
+      "food": {
+        "name": "豐富早餐",
+        "type": "主食",
+        "saveMethod": "常溫",
+        "totalQuantity": 26,
+        "restQuantity": 20,
+        "expiryDate": "2025-03-15",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "桃園市",
+        "district": "八德區",
+        "time": "14:00 - 16:00",
+        "address": "愛心社區警衛室"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNhbGFkfGVufDB8fDB8fHww"
+      ],
+      "viewCount": 55,
+      "commentCount": 3,
+      "likeCount": 10,
+      "userId": 1,
+      "createdPostDate": "2025-03-15 03:21:24"
+    },
+    {
+      "id": 4,
+      "redeemCode": "poqhte",
+      "title": "健康沙拉，滿足你的胃！",
+      "content": "意外多出幾份快速沙拉餐盒，跟幾個姐妹本來要聚餐，結果臨時有事，所以就把沙拉餐盒留給你。有一些蛋奶素，但大部份都是素食的，有雞蛋沙拉、酪梨沙拉、小黃瓜沙拉、西班牙沙拉，或是喜歡肉醬沙拉也是有的",
+      "food": {
+        "name": "沙拉餐盒",
+        "type": "主食",
+        "saveMethod": "冷藏",
+        "totalQuantity": 13,
+        "restQuantity": 3,
+        "expiryDate": "2025-01-01",
+        "isPastBestBefore": "no",
+        "dietType": "素食"
+      },
+      "pickup": {
+        "city": "臺中市",
+        "district": "西區",
+        "time": "14:00 - 16:00",
+        "address": "財就來大樓前臺"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1600335895229-6e75511892c8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2FsYWR8ZW58MHx8MHx8fDA%3D"
+      ],
+      "viewCount": 140,
+      "commentCount": 10,
+      "likeCount": 18,
+      "userId": 1,
+      "createdPostDate": "2025-01-01 03:21:24"
+    },
+    {
+      "id": 5,
+      "redeemCode": "qptoiy",
+      "title": "經典披薩，等著你來拿！",
+      "content": "今天活動有一些多餘的披薩，現在還溫著住在附近的人快來分享吧~ 有起司三重奏口味、臘腸口味、酸辣口味、蔬菜口味、薯餅口味、還有香蕉蜂蜜的甜 pizza，都還有剩不少哦",
+      "food": {
+        "name": "必勝x經典披薩",
+        "type": "主食",
+        "saveMethod": "常溫",
+        "totalQuantity": 20,
+        "restQuantity": 3,
+        "expiryDate": "2025-02-20",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "新北市",
+        "district": "新莊區",
+        "time": "14:00 - 16:00",
+        "address": "撫仁大學門口"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBpenphfGVufDB8fDB8fHww"
+      ],
+      "viewCount": 99,
+      "commentCount": 8,
+      "likeCount": 30,
+      "userId": 3,
+      "createdPostDate": "2025-02-20 03:21:24"
+    },
+    {
+      "id": 6,
+      "redeemCode": "0kghwr",
+      "title": "排隊甜點名店10x10 草莓蛋糕！",
+      "content": "今天教會辦活動，有多叫了一些草莓蛋糕，住在附近的人快來分享吧~ 溫暖的人與人之間的關懷，這是一個充滿正能量的地方。感謝主",
+      "food": {
+        "name": "10x10 甜點店排隊草莓蛋糕",
+        "type": "甜點",
+        "saveMethod": "冷藏",
+        "totalQuantity": 21,
+        "restQuantity": 20,
+        "expiryDate": "2025-03-10",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "桃園市",
+        "district": "中壢區",
+        "time": "14:00 - 16:00",
+        "address": "中圓大學女宿"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1627308595171-d1b5d67129c4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U3RyYXdiZXJyeSUyMGNha2V8ZW58MHx8MHx8fDA%3D"
+      ],
+      "viewCount": 178,
+      "commentCount": 7,
+      "likeCount": 13,
+      "userId": 1,
+      "createdPostDate": "2025-03-01 03:21:24"
+    },
+    {
+      "id": 7,
+      "redeemCode": "pmxg3t",
+      "title": "好事多搶爆開心果可頌",
+      "content": "一盒有50顆吃不完啦，IG 貼文搶爆開心果口味可頌，做活動買一送一總共有 50 顆，怕胖又想嘗鮮的人可以來試試，聽說再烤過更好吃，家裡有烤箱的人可以來衝一波",
+      "food": {
+        "name": "好事多搶爆開心果可頌",
+        "type": "甜點",
+        "saveMethod": "冷藏",
+        "totalQuantity": 21,
+        "restQuantity": 14,
+        "expiryDate": "2025-02-18",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "新北市",
+        "district": "板橋區",
+        "time": "14:00 - 16:00",
+        "address": "豪野人才住的起社區大廳"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1530610476181-d83430b64dcd?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q3JvaXNzYW50JTIwY29zdGNvfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1691480162735-9b91238080f6?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fENyb2lzc2FudCUyMGNvc3Rjb3xlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "viewCount": 178,
+      "commentCount": 45,
+      "likeCount": 301,
+      "userId": 1,
+      "createdPostDate": "2025-02-16 03:21:24"
+    },
+    {
+      "id": 8,
+      "redeemCode": "adyfg5",
+      "title": "得到飲料店 - 紅玉烏龍全糖",
+      "content": "我點外送點錯數量了…現在有 20 杯想喝的快來帶走，主要是都是紅玉烏龍全糖，還有幾杯有料的可以來試試運氣看還有沒有",
+      "food": {
+        "name": "紅玉烏龍全糖",
+        "type": "飲料",
+        "saveMethod": "冷藏",
+        "totalQuantity": 16,
+        "restQuantity": 0,
+        "expiryDate": "2024-12-23",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "桃園市",
+        "district": "中壢區",
+        "time": "14:00 - 16:00",
+        "address": "中壢夜市 A5 攤位"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1561050933-2482aca2dd64?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGxhc3RpYyUyMGN1cHxlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "viewCount": 175,
+      "commentCount": 15,
+      "likeCount": 198,
+      "userId": 2,
+      "createdPostDate": "2024-12-22 15:21:24"
+    },
+    {
+      "id": 9,
+      "redeemCode": "peiyh5",
+      "title": "邊緣人是要怎麼買一送三，星爸爸焦糖瑪奇朵",
+      "content": "剛去買星爸爸結果今天有活動買一送三，邊緣人沒朋友多了三杯想要分給需要的人，我沒有吃太甜所以焦糖瑪奇朵壓兩下而已哦~ 如果愛喝四下的人可能要注意",
+      "food": {
+        "name": "星爸爸焦糖瑪奇朵",
+        "type": "飲料",
+        "saveMethod": "常溫",
+        "totalQuantity": 3,
+        "restQuantity": 0,
+        "expiryDate": "2024-12-22",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "高雄市",
+        "district": "苓雅區",
+        "time": "14:00 - 16:00",
+        "address": "樂來百貨一樓星爸爸"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1557531121-4b4764f8dace?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHN0YXJidWNrc3xlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "viewCount": 276,
+      "commentCount": 101,
+      "likeCount": 490,
+      "userId": 1,
+      "createdPostDate": "2024-12-22 03:21:24"
+    },
+    {
+      "id": 10,
+      "redeemCode": "gjrlyu",
+      "title": "巨人披薩，等著你來拿！",
+      "content": "居然出了巨人披薩，真的有巨人這麼大共有 30 片，我一個人吃不完，有需要的人快來分",
+      "food": {
+        "name": "達快樂巨人披薩",
+        "type": "主食",
+        "saveMethod": "常溫",
+        "totalQuantity": 25,
+        "restQuantity": 0,
+        "expiryDate": "2025-03-09",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "臺南市",
+        "district": "安平區",
+        "time": "14:00 - 16:00",
+        "address": "平安廟口找廟公"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1601924582970-9238bcb495d9?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBpenphfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHBpenphfGVufDB8fDB8fHww"
+      ],
+      "viewCount": 484,
+      "commentCount": 27,
+      "likeCount": 56,
+      "userId": 3,
+      "createdPostDate": "2025-03-08 03:21:24"
+    },
+    {
+      "id": 11,
+      "redeemCode": "ytjldf",
+      "title": "自製鄉村肉醬義大利麵",
+      "content": "嗨大家!今天有一大盤剛出爐的義大利麵,完全不用擔心,大家都可以來拿!🍝 食物超新鮮、好粗!我會在下午 2 點到 4 點之間待在家裡,歡迎來取!別忘了帶上你們的好心情~ 😄🌟",
+      "food": {
+        "name": "自製鄉村肉醬義大利麵",
+        "type": "主食",
+        "saveMethod": "常溫",
+        "totalQuantity": 10,
+        "restQuantity": 9,
+        "expiryDate": "2025-03-11",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "新北市",
+        "district": "板橋區",
+        "time": "14:00 - 16:00",
+        "address": "馥華時尚社區1樓管理員"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1608897013039-887f21d8c804?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGFzdGF8ZW58MHx8MHx8fDA%3D"
+      ],
+      "viewCount": 234,
+      "commentCount": 15,
+      "likeCount": 140,
+      "userId": 20,
+      "createdPostDate": "2025-03-11 11:21:24"
+    },
+    {
+      "id": 12,
+      "redeemCode": "fujgb3",
+      "title": "手工巧克力布朗尼",
+      "content": "甜點時間!今天我有一大盤自己做的巧克力布朗尼,超級濃郁、超級好吃!🥳 有興趣的朋友明天上午 10 點到中午 12 點來取。希望這些甜點能為你的一天帶來些許甜蜜和快樂!💖",
+      "food": {
+        "name": "手工巧克力布朗尼",
+        "type": "甜點",
+        "saveMethod": "冷藏",
+        "totalQuantity": 20,
+        "restQuantity": 19,
+        "expiryDate": "2025-03-14",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "臺北市",
+        "district": "信義區",
+        "time": "10:00 - 12:00",
+        "address": "海馬音樂教室 1 樓"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1636743715220-d8f8dd900b87?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QnJvd25pZXxlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "viewCount": 673,
+      "commentCount": 263,
+      "likeCount": 684,
+      "userId": 19,
+      "createdPostDate": "2025-03-13 20:20:20"
+    },
+    {
+      "id": 13,
+      "redeemCode": "4lkjhg",
+      "title": "營養大早餐",
+      "content": "早安,朋友們!家裡剩了一些自製的早餐三明治和現泡的紅茶,三明治裡面有火腿、雞蛋和起司,非常豐富! 🍳 🧀 這些美味的營養三明治會在今天中午 11 點前等你來拿！不要錯過囉！",
+      "food": {
+        "name": "營養大早餐",
+        "type": "主食",
+        "saveMethod": "常溫",
+        "totalQuantity": 15,
+        "restQuantity": 13,
+        "expiryDate": "2025-03-14",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "臺中市",
+        "district": "西區",
+        "time": "09:00 - 11:00",
+        "address": "篤行國小操場東側門"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "viewCount": 197,
+      "commentCount": 19,
+      "likeCount": 43,
+      "userId": 18,
+      "createdPostDate": "2025-03-14 06:45:13"
+    },
+    {
+      "id": 14,
+      "redeemCode": "qwerjh",
+      "title": "法式風情咖哩飯",
+      "content": "🚀 嘿!家裡剩下了一大鍋自製的咖哩,馬鈴薯、紅蘿蔔、雞腿肉味道超棒,還有很多米飯~🍛 只要你喜歡咖哩,這些美味就屬於你!我會在今天晚上 7 點到 9 點在家,來領取吧！期待你們的到來！",
+      "food": {
+        "name": "法式風情咖哩飯",
+        "type": "主食",
+        "saveMethod": "常溫",
+        "totalQuantity": 18,
+        "restQuantity": 15,
+        "expiryDate": "2025-03-11",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "桃園市",
+        "district": "中壢區",
+        "time": "19:00 - 21:00",
+        "address": "櫻花響社區找1樓警衛大哥說要領咖哩"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGN1cnJ5fGVufDB8fDB8fHww"
+      ],
+      "viewCount": 243,
+      "commentCount": 14,
+      "likeCount": 265,
+      "userId": 17,
+      "createdPostDate": "2025-03-11 17:45:13"
+    },
+    {
+      "id": 15,
+      "redeemCode": "hnbfvx",
+      "title": "手打厚厚肉漢堡",
+      "content": "嗨大家！今天有幾份剛出爐的漢堡，歡迎大家都可以來拿！🍔 食物非常新鮮、美味可口！我會在中午 12 點到下午 2 點之間待在家裡，歡迎大家來取！別忘了帶上你們的環保袋哦~ 😄🌟",
+      "food": {
+        "name": "手打厚厚肉漢堡",
+        "type": "主食",
+        "saveMethod": "常溫",
+        "totalQuantity": 25,
+        "restQuantity": 20,
+        "expiryDate": "2025-03-15",
+        "isPastBestBefore": "no",
+        "dietType": "葷食"
+      },
+      "pickup": {
+        "city": "臺中市",
+        "district": "太平區",
+        "time": "19:00 - 21:00",
+        "address": "綠雅圖大樓 16 樓找黃sir"
+      },
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1596956470007-2bf6095e7e16?q=80&w=2829&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "viewCount": 245,
+      "commentCount": 18,
+      "likeCount": 146,
+      "userId": 16,
+      "createdPostDate": "2025-03-15 10:25:16"
+    }
+  ]
