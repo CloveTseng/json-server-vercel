@@ -1,0 +1,24 @@
+name: Backup JSON Server Database
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小時執行一次 (UTC 時間)
+  workflow_dispatch: # 允許手動觸發
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch JSON Server Database
+        run: curl -o db.json https://your-render-app.onrender.com/db
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add db.json
+          git commit -m "Automated Backup - $(date)" || echo "No changes to commit"
+          git push
