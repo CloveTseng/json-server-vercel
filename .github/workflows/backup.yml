@@ -15,17 +15,17 @@ jobs:
       - name: Fetch JSON Server Database
         run: |
           mkdir -p data
-          curl -o data/applications.json https://json-server-vercel-5mr9.onrender.com/applications
-          curl -o data/comments.json https://json-server-vercel-5mr9.onrender.com/comments
-          curl -o data/feedbacks.json https://json-server-vercel-5mr9.onrender.com/feedbacks
-          curl -o data/foodType.json https://json-server-vercel-5mr9.onrender.com/foodType
-          curl -o data/likes.json https://json-server-vercel-5mr9.onrender.com/likes
-          curl -o data/posts.json https://json-server-vercel-5mr9.onrender.com/posts
-          curl -o data/saveMethod.json https://json-server-vercel-5mr9.onrender.com/saveMethod
-          curl -o data/twCities.json https://json-server-vercel-5mr9.onrender.com/twCities
-          curl -o data/userReadComments.json https://json-server-vercel-5mr9.onrender.com/userReadComments
-          curl -o data/userReadPosts.json https://json-server-vercel-5mr9.onrender.com/userReadPosts
-          curl -o data/users.json https://json-server-vercel-5mr9.onrender.com/users
+          
+          for endpoint in applications comments feedbacks foodType likes posts saveMethod twCities userReadComments userReadPosts users; do
+            echo "Fetching $endpoint..."
+            
+            response=$(curl --write-out "%{http_code}" --silent --output "data/$endpoint.json" "https://json-server-vercel-5mr9.onrender.com/$endpoint")
+
+            if [ "$response" -ne 200 ]; then
+              echo "Error fetching $endpoint (HTTP Code: $response), restoring previous data."
+              git checkout -- "data/$endpoint.json"
+            fi
+          done
 
 
       - name: Commit and Push Changes
@@ -33,6 +33,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json
-          git commit -m "Automated Backup - $(date)" || echo "No changes to commit"
+          git diff --staged --quiet || git commit -m "Automated Backup - $(date)"
           git pull --rebase origin main
           git push origin main
