@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Fetch JSON Server Database
-        run: curl -o db.json https://your-render-app.onrender.com/db
+        run: curl -o db.json https://json-server-vercel-5mr9.onrender.com/db
 
       - name: Commit and Push Changes
         run: |
