@@ -14,9 +14,11 @@ const db = {};
 
 fs.readdirSync(dataFolder).forEach((file) => {
   if (file.endsWith(".json")) {
+    const resourceName = file.replace(".json", "");
     const filePath = path.join(dataFolder, file);
     const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-    Object.assign(db, data);
+    // Object.assign(db, data);
+    db[resourceName] = Array.isArray(data) ? data : Object.values(data);
   }
 });
 
