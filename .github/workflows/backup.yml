@@ -13,12 +13,25 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch JSON Server Database
-        run: curl -o db.json https://json-server-vercel-5mr9.onrender.com/db
+        run: |
+          mkdir -p data
+          curl -o data/applications.json https://json-server-vercel-5mr9.onrender.com/applications
+          curl -o data/comments.json https://json-server-vercel-5mr9.onrender.com/comments
+          curl -o data/feedbacks.json https://json-server-vercel-5mr9.onrender.com/feedbacks
+          curl -o data/foodType.json https://json-server-vercel-5mr9.onrender.com/foodType
+          curl -o data/likes.json https://json-server-vercel-5mr9.onrender.com/likes
+          curl -o data/posts.json https://json-server-vercel-5mr9.onrender.com/posts
+          curl -o data/saveMethod.json https://json-server-vercel-5mr9.onrender.com/saveMethod
+          curl -o data/twCities.json https://json-server-vercel-5mr9.onrender.com/twCities
+          curl -o data/userReadComments.json https://json-server-vercel-5mr9.onrender.com/userReadComments
+          curl -o data/userReadPosts.json https://json-server-vercel-5mr9.onrender.com/userReadPosts
+          curl -o data/users.json https://json-server-vercel-5mr9.onrender.com/users
+
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add db.json
+          git add data/*.json
           git commit -m "Automated Backup - $(date)" || echo "No changes to commit"
           git push
