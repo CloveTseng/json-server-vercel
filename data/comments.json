@@ -94,5 +94,13 @@
     "comment": "看起來太誘人啦",
     "createDate": "2025-03-13 11:42:26",
     "id": 12
+  },
+  {
+    "postId": "2",
+    "userId": 16,
+    "type": "normal",
+    "comment": "我要我要我要",
+    "createDate": "2025-03-14 12:45:08",
+    "id": 13
   }
 ]
