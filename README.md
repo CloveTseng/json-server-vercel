@@ -29,7 +29,7 @@
         ]
     }
     ```
-    ![](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/jsondata.png?alt=media&token=e7c7f8d3-0096-4949-ba89-2f9e6021a319)
+    <img src="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/jsondata.png?alt=media&token=e7c7f8d3-0096-4949-ba89-2f9e6021a319" width="300px">
 
 ### 第三步 - json 檔寫好了然後呢？
 * 推送分支
