@@ -226,14 +226,6 @@
   {
     "id": 29,
     "postId": 8,
-    "userId": 4,
-    "type": "normal",
-    "comment": "賺到一杯",
-    "createDate": "2024-12-22 15:50:44"
-  },
-  {
-    "id": 29,
-    "postId": 8,
     "userId": 16,
     "type": "normal",
     "comment": "喝喝喝",
@@ -390,5 +382,13 @@
     "type": "normal",
     "comment": "大滿足",
     "createDate": "2025-03-15 12:42:26"
+  },
+  {
+    "id": 49,
+    "postId": 8,
+    "userId": 4,
+    "type": "normal",
+    "comment": "賺到一杯",
+    "createDate": "2024-12-22 15:50:44"
   }
 ]
