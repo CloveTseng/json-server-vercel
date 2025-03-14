@@ -3,21 +3,24 @@
     "id": 1,
     "userId": 1,
     "postId": 1,
-    "isRead": true,
-    "readTime": "2024-12-24 10:00:00"
+    "isRead": true
   },
   {
     "id": 2,
     "userId": 2,
     "postId": 1,
-    "isRead": true,
-    "readTime": "2024-12-24 11:00:00"
+    "isRead": true
   },
   {
     "id": 3,
     "userId": 1,
     "postId": 2,
-    "isRead": false,
-    "readTime": null
+    "isRead": false
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "postId": 3,
+    "isRead": false
   }
 ]
