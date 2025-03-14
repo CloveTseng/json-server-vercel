@@ -13,7 +13,7 @@
   {
     "id": 2,
     "postId": 1,
-    "userId": 11,
+    "userId": 4,
     "type": "領取通知",
     "message": "我覺得很讚哎，剛好在附近，可以直接去拿嗎？",
     "replyMessage": "可以的可以的，我就在警衛室門口快來",
@@ -103,10 +103,21 @@
     "postId": 13,
     "userId": 1,
     "type": "領取通知",
-    "message": "看起來超讚的!!居然有這麼多，我在附近馬上就可以去拿，感謝你的分享哦~好人一生平安",
+    "message": "最近在減肥，剛好去運動後可以順便領營養大早餐，感謝分享，太棒了~",
     "replyMessage": "好哦~歡迎你來領取",
     "status": "待處理",
-    "created_time": "2025-03-14 15:40:12",
+    "created_time": "2025-03-14 08:40:12",
     "isRead": false
+  },
+  {
+    "id": 11,
+    "postId": 11,
+    "userId": 1,
+    "type": "領取通知",
+    "message": "最近在減肥，剛好去運動後可以順便領營養大早餐，感謝分享，太棒了~",
+    "replyMessage": "好哦~歡迎你來領取",
+    "status": "已同意",
+    "created_time": "2025-03-11 12:40:12",
+    "isRead": true
   }
 ]
