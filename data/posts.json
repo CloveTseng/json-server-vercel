@@ -450,5 +450,37 @@
     "likeCount": 146,
     "userId": 16,
     "createdPostDate": "2025-03-15 10:25:16"
+  },
+  {
+    "redeemCode": "Eu2sid",
+    "title": "茸茸貓罐頭",
+    "content": "日本製 原廠進口 茸茸罐頭 魚盛罐 ，墨不愛吃只好分享給其他貓貓們吃，人類想吃也可！",
+    "pickup": {
+      "city": "",
+      "district": "",
+      "time": "",
+      "address": "茸茸的窩"
+    },
+    "viewCount": 1,
+    "commentCount": 0,
+    "likeCount": 0,
+    "userId": 1,
+    "city": "21",
+    "district": "白沙鄉",
+    "food": {
+      "name": "貓罐頭",
+      "type": "主食",
+      "saveMethod": "常溫",
+      "restQuantity": 3,
+      "expiryDate": "2025-04-13",
+      "isPastBestBefore": "No",
+      "dietType": "葷食",
+      "totalQuantity": 3
+    },
+    "createdPostDate": "2025-03-14 22:41:28",
+    "imagesUrl": [
+      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lzyarynzadbo8f"
+    ],
+    "id": 16
   }
 ]
