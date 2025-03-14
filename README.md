@@ -1,12 +1,20 @@
 # 大家一起 json-server
-## 第一步 - clone repo
+
+<summary>Table of Contents</summary>
+
+- [怎麼開始](#第一步---clone-repo)
+- [建立新 json 檔](#第二步---資料夾及檔案說明)
+- [新增與更新資料](#新增資料的話)
+
+
+### 第一步 - clone repo
 * 點擊 `code` 按鈕複製 url
 ![clone-repo](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/clonerepo.png?alt=media&token=74a25d62-4cb2-4e6a-99ec-8cfd8b4a0fc6)
 
 * 到本地端 (自己的電腦) 下載這個 repo 之後，開啟這個資料夾 
 ![](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/gitclone.png?alt=media&token=85c0e043-b6ea-473a-8022-86ecb899b901)
 
-## 第二步 - 資料夾及檔案說明
+### 第二步 - 資料夾及檔案說明
 * 開啟檔案後找到 data 資料夾，裡面就是存放各個 `.json` 資料的地方
 ![data-json](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/data-json.png?alt=media&token=473a0a71-b773-485c-b0e4-0c3851abc7b0)
 
@@ -23,6 +31,11 @@
     ```
     ![](https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/jsondata.png?alt=media&token=e7c7f8d3-0096-4949-ba89-2f9e6021a319)
 
-## 第三步 - json 檔寫好了然後呢？
+### 第三步 - json 檔寫好了然後呢？
 * 推送分支
 * 發 PR 給我沒問題之後，就會幫你重啟 Render 囉~
+
+---
+## 新增資料的話
+可以使用 postman 進行資料的測試，或是打 API 發送相關請求就可以新增、修改或刪除資料。<br/>
+因為有寫自動備份，所以資料會寫入 data 下的相應檔案內。
