@@ -76,7 +76,7 @@
       "saveMethod": "常溫",
       "totalQuantity": 26,
       "restQuantity": 20,
-      "expiryDate": "2025-03-16",
+      "expiryDate": "2025-03-19",
       "isPastBestBefore": "no",
       "dietType": "葷食"
     },
@@ -106,7 +106,7 @@
       "saveMethod": "冷藏",
       "totalQuantity": 13,
       "restQuantity": 3,
-      "expiryDate": "2025-01-02",
+      "expiryDate": "2025-03-18",
       "isPastBestBefore": "no",
       "dietType": "素食"
     },
@@ -123,7 +123,7 @@
     "commentCount": 10,
     "likeCount": 18,
     "userId": 1,
-    "createdPostDate": "2025-01-01 03:21:24"
+    "createdPostDate": "2025-03-16 03:21:24"
   },
   {
     "id": 5,
