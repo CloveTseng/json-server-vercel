@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "redeemCode": "KP4d4M",
+    "redeemCode": "fShJRL",
     "title": "奢華午餐，尋找飢餓的你！",
     "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
     "food": {
@@ -10,26 +10,30 @@
       "saveMethod": "冷藏",
       "restQuantity": 25,
       "expiryDate": "2025-03-15",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
+      "isPastBestBefore": "yes",
+      "dietType": "素食",
       "totalQuantity": 25
     },
     "pickup": {
-      "city": "3",
-      "district": "土城區",
+      "city": "9",
+      "district": "苗栗市",
       "time": "14:00 - 16:00",
       "address": "臺臺食材玫瑰大廳"
     },
     "imagesUrl": [
       [
-        "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+        [
+          [
+            "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+          ]
+        ]
       ]
     ],
     "viewCount": 178,
     "commentCount": 7,
     "likeCount": 13,
     "userId": 1,
-    "createdPostDate": "2025-03-15 20:58:56",
+    "createdPostDate": "2025-03-15 22:08:29",
     "city": "3",
     "district": "內湖區"
   },
