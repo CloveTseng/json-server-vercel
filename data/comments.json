@@ -398,5 +398,13 @@
     "comment": "我想申請..",
     "createDate": "2025-03-15 23:13:26",
     "id": 50
+  },
+  {
+    "postId": "1",
+    "userId": 1,
+    "type": "normal",
+    "comment": "good",
+    "createDate": "2025-03-16 06:33:23",
+    "id": 51
   }
 ]
