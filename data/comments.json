@@ -406,5 +406,13 @@
     "comment": null,
     "createDate": "2025-03-16 00:05:42",
     "id": 51
+  },
+  {
+    "postId": "5",
+    "userId": 16,
+    "type": "normal",
+    "comment": null,
+    "createDate": "2025-03-16 09:35:18",
+    "id": 52
   }
 ]
