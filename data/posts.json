@@ -488,5 +488,37 @@
       "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lzyarynzadbo8f"
     ],
     "id": 16
+  },
+  {
+    "redeemCode": "E9W-a5",
+    "title": "漂亮阿姨愛吃漢堡包",
+    "content": "大俠愛吃黑貓貓，神經牛肉全是毛，香港市民添口福，吃過­之後洗泡泡。",
+    "pickup": {
+      "city": "",
+      "district": "",
+      "time": "",
+      "address": "龜裡面"
+    },
+    "viewCount": 1,
+    "commentCount": 0,
+    "likeCount": 0,
+    "userId": 1,
+    "city": "新竹市",
+    "district": "香山區",
+    "food": {
+      "name": "姨姨愛吃漢堡包",
+      "type": "主食",
+      "saveMethod": "常溫",
+      "restQuantity": 16,
+      "expiryDate": "2025-03-24",
+      "isPastBestBefore": "no",
+      "dietType": "葷食",
+      "totalQuantity": 16
+    },
+    "createdPostDate": "2025-03-17 16:09:49",
+    "imagesUrl": [
+      "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
+    ],
+    "id": 17
   }
 ]
