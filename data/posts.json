@@ -488,37 +488,5 @@
       "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lzyarynzadbo8f"
     ],
     "id": 16
-  },
-  {
-    "redeemCode": "t5Szvm",
-    "title": "漂亮阿姨的早餐",
-    "content": "漂亮阿姨的早餐店，漂亮阿姨的早餐真的超漂亮又好次，快來申請買不了吃虧買不了上當，千萬不要錯過",
-    "pickup": {
-      "city": "",
-      "district": "",
-      "time": "",
-      "address": "漂亮阿姨的早餐"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "city": "臺北市",
-    "district": "中正區",
-    "food": {
-      "name": "漂亮阿姨的早餐",
-      "type": "主食",
-      "saveMethod": "常溫",
-      "restQuantity": 1,
-      "expiryDate": "2025-03-18",
-      "isPastBestBefore": "no",
-      "dietType": "素食",
-      "totalQuantity": 1
-    },
-    "createdPostDate": "2025-03-16 06:31:05",
-    "imagesUrl": [
-      "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    ],
-    "id": 17
   }
 ]
