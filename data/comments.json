@@ -406,5 +406,13 @@
     "comment": "good",
     "createDate": "2025-03-16 06:33:23",
     "id": 51
+  },
+  {
+    "postId": "6",
+    "userId": 16,
+    "type": "normal",
+    "comment": "沒吃到～ＱＱ",
+    "createDate": "2025-03-18 15:16:25",
+    "id": 52
   }
 ]
