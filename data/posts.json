@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "redeemCode": "f02bnw",
+    "redeemCode": "XlZYvP",
     "title": "奢華午餐，尋找飢餓的你",
     "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
     "food": {
@@ -9,23 +9,21 @@
       "type": "主食",
       "saveMethod": "冷藏",
       "restQuantity": 25,
-      "expiryDate": "2025-03-19",
+      "expiryDate": "2025-03-22",
       "isPastBestBefore": "no",
       "dietType": "葷食",
       "totalQuantity": 25
     },
     "pickup": {
-      "city": "臺中市",
-      "district": "烏日區",
-      "time": "14:00 - 16:00",
+      "city": "連江縣",
+      "district": "南竿鄉",
+      "time": "12:30 - 14:15",
       "address": "臺臺食材玫瑰大廳"
     },
     "imagesUrl": [
       [
         [
-          [
-            "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
-          ]
+          "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
         ]
       ]
     ],
@@ -33,7 +31,9 @@
     "commentCount": 7,
     "likeCount": 13,
     "userId": 1,
-    "createdPostDate": "2025-03-19 21:53:07"
+    "createdPostDate": "2025-03-19 21:53:07",
+    "startTime": "03:45",
+    "endTime": "05:30"
   },
   {
     "id": 2,
@@ -431,7 +431,7 @@
   },
   {
     "id": 15,
-    "redeemCode": "t0B_Vg",
+    "redeemCode": "I45cBz",
     "title": "手打厚厚肉漢堡",
     "content": "嗨大家！今天有幾份剛出爐的漢堡，歡迎大家都可以來拿！🍔 食物非常新鮮、美味可口！我會在中午 12 點到下午 2 點之間待在家裡，歡迎大家來取！別忘了帶上你們的環保袋哦~ 😄🌟",
     "food": {
@@ -439,27 +439,37 @@
       "type": "主食",
       "saveMethod": "常溫",
       "restQuantity": 25,
-      "expiryDate": "2025-03-19",
+      "expiryDate": "2025-03-21",
       "isPastBestBefore": "no",
-      "dietType": "葷食",
+      "dietType": "素食",
       "totalQuantity": 25
     },
     "pickup": {
       "city": "臺中市",
-      "district": "太平區",
+      "district": "大里區",
       "time": "19:00 - 21:00",
       "address": "綠雅圖大樓 16 樓找黃sir"
     },
     "imagesUrl": [
       [
-        "https://images.unsplash.com/photo-1596956470007-2bf6095e7e16?q=80&w=2829&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        [
+          [
+            [
+              [
+                [
+                  "https://images.unsplash.com/photo-1596956470007-2bf6095e7e16?q=80&w=2829&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                ]
+              ]
+            ]
+          ]
+        ]
       ]
     ],
     "viewCount": 245,
     "commentCount": 18,
     "likeCount": 146,
     "userId": 16,
-    "createdPostDate": "2025-03-19 22:15:57"
+    "createdPostDate": "2025-03-19 22:37:02"
   },
   {
     "redeemCode": "Eu2sid",
@@ -490,125 +500,5 @@
       "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lzyarynzadbo8f"
     ],
     "id": 16
-  },
-  {
-    "redeemCode": "xqTVyM",
-    "title": "大姨愛吃漢堡包",
-    "content": "大俠愛吃黑貓貓，神經牛肉全是毛，香港市民添口福，吃過­之後洗泡泡。",
-    "pickup": {
-      "city": "南投縣",
-      "district": "集集鎮",
-      "time": "",
-      "address": "山裡面"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "姨姨愛吃漢堡包",
-      "type": "主食",
-      "saveMethod": "常溫",
-      "restQuantity": 20,
-      "expiryDate": "2025-03-24",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 20
-    },
-    "createdPostDate": "2025-03-19 19:01:01",
-    "imagesUrl": [
-      "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
-    ],
-    "id": 17
-  },
-  {
-    "redeemCode": "UUySbX",
-    "title": "大俠也想吃麵麵",
-    "content": "大俠也愛吃麵麵",
-    "pickup": {
-      "city": "新竹縣",
-      "district": "竹東鎮",
-      "time": "",
-      "address": "風太大"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "大俠愛吃麵麵",
-      "type": "主食",
-      "saveMethod": "常溫",
-      "restQuantity": 20,
-      "expiryDate": "2025-03-24",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 20
-    },
-    "createdPostDate": "2025-03-19 19:04:42",
-    "imagesUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXNpYW5mb29kfGVufDB8fDB8fHww"
-    ],
-    "id": 18
-  },
-  {
-    "redeemCode": "k_JNQf",
-    "title": "漂亮姨姨想吃漢堡包",
-    "content": "大俠愛吃黑貓貓，神經牛肉全是毛，香港市民添口福，吃過­之後洗泡泡。",
-    "pickup": {
-      "city": "嘉義市",
-      "district": "西區",
-      "time": "",
-      "address": "豬腳好吃"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "姨姨愛吃漢堡包",
-      "type": "主食",
-      "saveMethod": "常溫",
-      "restQuantity": 19,
-      "expiryDate": "2025-03-21",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 19
-    },
-    "createdPostDate": "2025-03-19 20:26:10",
-    "imagesUrl": [
-      "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
-    ],
-    "id": 19
-  },
-  {
-    "redeemCode": "StYl8s",
-    "title": "姨姨夾肉膜",
-    "content": "大俠愛吃黑貓貓，神經牛肉全是毛，香港市民添口福，吃過­之後洗泡泡。",
-    "pickup": {
-      "city": "連江縣",
-      "district": "北竿鄉",
-      "time": "",
-      "address": "溪裡面"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "姨姨夾肉膜",
-      "type": "甜點",
-      "saveMethod": "冷藏",
-      "restQuantity": 19,
-      "expiryDate": "2025-03-21",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 19
-    },
-    "createdPostDate": "2025-03-19 20:29:36",
-    "imagesUrl": [
-      "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
-    ],
-    "id": 20
   }
 ]
