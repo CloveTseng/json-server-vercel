@@ -52,7 +52,7 @@
     "replyMessage": "好的唷，快來拿吧",
     "status": "待處理",
     "created_time": "2025-03-15 09:15:12",
-    "isRead": false
+    "isRead": true
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "replyMessage": "好的唷，快來拿吧",
     "status": "待處理",
     "created_time": "2025-03-14 15:15:12",
-    "isRead": false
+    "isRead": true
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "replyMessage": "哈囉~好久不見，可以的，老地方快來拿吧",
     "status": "待處理",
     "created_time": "2025-03-15 09:11:12",
-    "isRead": false
+    "isRead": true
   },
   {
     "id": 8,
@@ -107,7 +107,7 @@
     "replyMessage": "好哦~歡迎你來領取",
     "status": "待處理",
     "created_time": "2025-03-14 08:40:12",
-    "isRead": false
+    "isRead": true
   },
   {
     "id": 11,
@@ -168,7 +168,7 @@
     "status": "待回覆",
     "created_time": "2025-03-16 22:10:58",
     "id": 16,
-    "isRead": false
+    "isRead": true
   },
   {
     "postId": 14,
