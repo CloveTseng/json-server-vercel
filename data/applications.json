@@ -188,5 +188,23 @@
     "status": "待回覆",
     "created_time": "2025-03-21 18:06:17",
     "id": 18
+  },
+  {
+    "postId": 18,
+    "userId": 16,
+    "type": "申請通知",
+    "message": "領領領",
+    "status": "待回覆",
+    "created_time": "2025-03-21 20:07:19",
+    "id": 19
+  },
+  {
+    "postId": 19,
+    "userId": 16,
+    "type": "申請通知",
+    "message": "領領領",
+    "status": "待回覆",
+    "created_time": "2025-03-21 20:07:51",
+    "id": 20
   }
 ]
