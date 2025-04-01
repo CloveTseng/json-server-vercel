@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "redeemCode": "zTOc9B",
+    "redeemCode": "rfMCut",
     "title": "奢華午餐，尋找飢餓的你",
     "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
     "food": {
       "name": "高級便當們",
       "type": "主食",
       "saveMethod": "冷藏",
-      "restQuantity": 25,
+      "restQuantity": 24,
       "expiryDate": "2025-03-31",
       "isPastBestBefore": "no",
       "dietType": "葷食",
-      "totalQuantity": 25
+      "totalQuantity": 24
     },
     "pickup": {
       "city": "臺北市",
@@ -24,7 +24,11 @@
       [
         [
           [
-            "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+            [
+              [
+                "https://ariel0508.github.io/FlavorTrail/assets/home-4-54446fc6.jpg"
+              ]
+            ]
           ]
         ]
       ]
