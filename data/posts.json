@@ -686,12 +686,12 @@
     }
   },
   {
-    "redeemCode": "TYK1YA",
-    "title": "超好吃蛋糕第二團-2",
+    "redeemCode": "q6sECR",
+    "title": "超好吃蛋糕第二團",
     "content": "第二團領起來",
     "pickup": {
-      "city": "3",
-      "district": "板橋區",
+      "city": "新竹市",
+      "district": "東區",
       "time": "21:15 - 21:45",
       "address": "test路段"
     },
@@ -712,7 +712,11 @@
     "createdPostDate": "2025-04-15 10:21:46",
     "imagesUrl": [
       [
-        "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?q=80&w=2133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        [
+          [
+            "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?q=80&w=2133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          ]
+        ]
       ]
     ],
     "id": 22,

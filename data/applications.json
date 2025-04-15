@@ -187,7 +187,8 @@
     "message": "領來給家裡橘貓們嚐嚐看",
     "status": "待回覆",
     "created_time": "2025-03-21 18:06:17",
-    "id": 18
+    "id": 18,
+    "isRead": true
   },
   {
     "postId": 18,
