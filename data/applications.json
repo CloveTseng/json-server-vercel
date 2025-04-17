@@ -208,7 +208,7 @@
     "status": "待回覆",
     "created_time": "2025-03-21 20:07:51",
     "id": 20,
-    "isRead": false
+    "isRead": true
   },
   {
     "postId": 19,
@@ -218,7 +218,7 @@
     "status": "待回覆",
     "created_time": "2025-04-15 10:56:01",
     "id": 21,
-    "isRead": false
+    "isRead": true
   },
   {
     "postId": 18,
@@ -228,7 +228,7 @@
     "status": "待回覆",
     "created_time": "2025-04-15 10:56:31",
     "id": 22,
-    "isRead": false
+    "isRead": true
   },
   {
     "postId": 20,
@@ -237,7 +237,7 @@
     "message": "啊喵領取測試",
     "status": "待回覆",
     "created_time": "2025-04-17 15:07:53",
-    "isRead": false,
+    "isRead": true,
     "id": 23
   }
 ]
