@@ -422,5 +422,13 @@
     "comment": "good",
     "createDate": "2025-04-01 11:15:12",
     "id": 53
+  },
+  {
+    "postId": "19",
+    "userId": 16,
+    "type": "normal",
+    "comment": "吸爆",
+    "createDate": "2025-04-17 16:26:55",
+    "id": 54
   }
 ]
