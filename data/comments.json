@@ -422,21 +422,5 @@
     "comment": "good",
     "createDate": "2025-04-01 11:15:12",
     "id": 53
-  },
-  {
-    "postId": "21",
-    "userId": 1,
-    "type": "normal",
-    "comment": "推推",
-    "createDate": "2025-04-15 10:09:34",
-    "id": 54
-  },
-  {
-    "postId": "21",
-    "userId": 1,
-    "type": "normal",
-    "comment": "good~",
-    "createDate": "2025-04-15 10:11:06",
-    "id": 55
   }
 ]

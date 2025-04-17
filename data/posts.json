@@ -602,14 +602,14 @@
     "id": 19
   },
   {
-    "redeemCode": "Xtjn1f",
+    "redeemCode": "lV3oVt",
     "title": "大俠愛吃漢堡包",
     "content": "大俠愛吃黑貓貓，神經牛肉全是毛，香港市民添口福，吃過­之後洗泡泡。",
     "pickup": {
-      "city": "雲林縣",
-      "district": "西螺鎮",
-      "time": "11:15 - 22:30",
-      "address": "吸螺"
+      "city": "南投縣",
+      "district": "信義鄉",
+      "time": "08:45 - 16:45",
+      "address": "山裡面"
     },
     "viewCount": 1,
     "commentCount": 0,
@@ -617,170 +617,18 @@
     "userId": 1,
     "food": {
       "name": "大俠愛吃漢堡包",
-      "type": "主食",
-      "saveMethod": "常溫",
-      "restQuantity": 18,
-      "expiryDate": "2025-03-24",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 18
-    },
-    "createdPostDate": "2025-03-20 13:42:25",
-    "imagesUrl": [
-      "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
-    ],
-    "id": 20
-  },
-  {
-    "redeemCode": "oFyuUz",
-    "title": "超好吃蛋糕",
-    "content": "真的超好吃，不小心買太多了 22222",
-    "pickup": {
-      "city": "新北市",
-      "district": "板橋區",
-      "time": "20:00 - 20:30",
-      "address": "test 路段"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "超好吃蛋糕",
-      "type": "甜點",
-      "saveMethod": "冷藏",
-      "restQuantity": 15,
-      "expiryDate": "2025-04-20",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 15
-    },
-    "createdPostDate": "2025-04-15 09:38:54",
-    "imagesUrl": [
-      [
-        "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?q=80&w=2133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      ]
-    ],
-    "id": 21,
-    "user": {
-      "id": 1,
-      "email": "flavortrail@gmail.com",
-      "password": "20250316",
-      "name": "hee king",
-      "nickName": "法國地頭蛇",
-      "phone": "0912345678",
-      "avatarUrl": "https://images.unsplash.com/photo-1542996966-2e31c00bae31?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXNpYW58ZW58MHx8MHx8fDA%3D",
-      "pickupCity": "臺北市",
-      "pickupDistrict": "信義區",
-      "introduce": "大家好,我是頭蛇。無論是自己動手做的料理,還是發現的美味餐廳,我都樂於與朋友們分享這些美好的食物體驗。希望能夠通過分享美食,讓大家的生活更加豐富和快樂!😊"
-    }
-  },
-  {
-    "redeemCode": "q6sECR",
-    "title": "超好吃蛋糕第二團",
-    "content": "第二團領起來",
-    "pickup": {
-      "city": "新竹市",
-      "district": "東區",
-      "time": "21:15 - 21:45",
-      "address": "test路段"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "蛋糕",
-      "type": "甜點",
-      "saveMethod": "冷藏",
-      "restQuantity": 8,
-      "expiryDate": "2025-04-23",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 8
-    },
-    "createdPostDate": "2025-04-15 10:21:46",
-    "imagesUrl": [
-      [
-        [
-          [
-            "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?q=80&w=2133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-          ]
-        ]
-      ]
-    ],
-    "id": 22,
-    "user": {
-      "id": 1,
-      "email": "flavortrail@gmail.com",
-      "password": "20250316",
-      "name": "hee king",
-      "nickName": "法國地頭蛇",
-      "phone": "0912345678",
-      "avatarUrl": "https://images.unsplash.com/photo-1542996966-2e31c00bae31?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXNpYW58ZW58MHx8MHx8fDA%3D",
-      "pickupCity": "臺北市",
-      "pickupDistrict": "信義區",
-      "introduce": "大家好,我是頭蛇。無論是自己動手做的料理,還是發現的美味餐廳,我都樂於與朋友們分享這些美好的食物體驗。希望能夠通過分享美食,讓大家的生活更加豐富和快樂!😊"
-    }
-  },
-  {
-    "redeemCode": "VR-lCm",
-    "title": "大俠愛吃漢堡包",
-    "content": "大俠愛吃漢堡包",
-    "pickup": {
-      "city": "雲林縣",
-      "district": "西螺鎮",
-      "time": "01:15 - 15:00",
-      "address": "螺裡面"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "大俠愛吃漢堡包",
-      "type": "主食",
-      "saveMethod": "常溫",
-      "restQuantity": 18,
-      "expiryDate": "2025-04-17",
-      "isPastBestBefore": "no",
-      "dietType": "葷食",
-      "totalQuantity": 18
-    },
-    "createdPostDate": "2025-04-17 14:01:01",
-    "imagesUrl": [
-      "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
-    ],
-    "id": 23
-  },
-  {
-    "redeemCode": "VeEk0y",
-    "title": "姨姨愛吃漢堡包",
-    "content": "大俠愛吃黑貓貓，神經牛肉全是毛，香港市民添口福，吃過­之後洗泡泡。",
-    "pickup": {
-      "city": "桃園市",
-      "district": "復興區",
-      "time": "08:30 - 20:00",
-      "address": "豬腳好吃"
-    },
-    "viewCount": 1,
-    "commentCount": 0,
-    "likeCount": 0,
-    "userId": 1,
-    "food": {
-      "name": "姨姨愛吃漢堡包",
       "type": "主食",
       "saveMethod": "冷藏",
       "restQuantity": 19,
-      "expiryDate": "2025-04-17",
+      "expiryDate": "2025-06-27",
       "isPastBestBefore": "no",
       "dietType": "葷食",
       "totalQuantity": 19
     },
-    "createdPostDate": "2025-04-17 14:09:36",
+    "createdPostDate": "2025-04-17 14:53:46",
     "imagesUrl": [
-      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
+      "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVnZXJ8ZW58MHx8MHx8fDA%3D"
     ],
-    "id": 24
+    "id": 20
   }
 ]
