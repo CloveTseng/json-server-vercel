@@ -430,5 +430,13 @@
     "comment": "吸爆",
     "createDate": "2025-04-17 16:26:55",
     "id": 54
+  },
+  {
+    "postId": "1",
+    "userId": 1,
+    "type": "normal",
+    "comment": "讚喔",
+    "createDate": "2025-05-15 23:04:19",
+    "id": 55
   }
 ]
