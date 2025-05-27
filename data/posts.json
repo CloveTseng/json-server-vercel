@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "redeemCode": "YAqibc",
+    "redeemCode": "vlJhv2",
     "title": "奢華午餐，尋找飢餓的你",
     "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
     "food": {
@@ -9,7 +9,7 @@
       "type": "主食",
       "saveMethod": "冷藏",
       "restQuantity": 24,
-      "expiryDate": "2025-03-31",
+      "expiryDate": "2025-02-28",
       "isPastBestBefore": "no",
       "dietType": "葷食",
       "totalQuantity": 24
@@ -21,13 +21,29 @@
       "address": "臺臺食材玫瑰大廳"
     },
     "imagesUrl": [
-      "https://github.com/Ariel0508/flavor-trail-react/blob/main/public/assets/images/home-4.jpg?raw=true"
+      [
+        [
+          "https://github.com/Ariel0508/flavor-trail-react/blob/main/public/assets/images/home-4.jpg?raw=true"
+        ]
+      ]
     ],
     "viewCount": 178,
     "commentCount": 7,
     "likeCount": 13,
     "userId": 1,
-    "createdPostDate": "2025-03-19 21:53:07"
+    "createdPostDate": "2025-03-19 21:53:07",
+    "user": {
+      "id": 1,
+      "email": "flavortrail@gmail.com",
+      "password": "20250316",
+      "name": "hee king",
+      "nickName": "法國地頭蛇🦫",
+      "phone": "0912345678",
+      "avatarUrl": null,
+      "pickupCity": "臺北市",
+      "pickupDistrict": "信義區",
+      "introduce": "大家好,我是頭蛇。無論是自己動手做的料理,還是發現的美味餐廳,我都樂於與朋友們分享這些美好的食物體驗。希望能夠通過分享美食,讓大家的生活更加豐富和快樂!😊"
+    }
   },
   {
     "id": 2,
