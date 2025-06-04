@@ -77,7 +77,7 @@
   },
   {
     "id": 3,
-    "redeemCode": "kvYpay",
+    "redeemCode": "G9vTrI",
     "title": "豐富早餐，迎接活力一天！",
     "content": "剛完成健康早餐的製作，有些多餘的分量，裡面有一些堅果、藍莓、鮭魚、貝比生菜再加上一些蔬菜，最後再灑上起司，自己準備一杯咖啡也是不錯的選擇。",
     "food": {
@@ -91,13 +91,15 @@
       "totalQuantity": 26
     },
     "pickup": {
-      "city": "彰化縣",
-      "district": "永靖鄉",
+      "city": "臺中市",
+      "district": "霧峰區",
       "time": "10:00 - 16:00",
       "address": "愛心社區警衛室"
     },
     "imagesUrl": [
-      "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNhbGFkfGVufDB8fDB8fHww"
+      [
+        "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNhbGFkfGVufDB8fDB8fHww"
+      ]
     ],
     "viewCount": 55,
     "commentCount": 3,
