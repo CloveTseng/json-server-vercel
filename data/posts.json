@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "redeemCode": "vlJhv2",
+    "redeemCode": "PgHfrj",
     "title": "奢華午餐，尋找飢餓的你",
     "content": "公司的會議取消了，現在有20個未使用的精緻便當在等你。主菜：日本和牛漢堡，配菜：黑松露醬條，沙拉：迷你鮮蝦沙拉, 甜點：開心果馬卡龍, 飲料：冷萃蜂蜜咖啡。",
     "food": {
@@ -15,15 +15,17 @@
       "totalQuantity": 24
     },
     "pickup": {
-      "city": "臺北市",
-      "district": "內湖區",
+      "city": "新竹縣",
+      "district": "芎林鄉",
       "time": "00:30 - 01:15",
       "address": "臺臺食材玫瑰大廳"
     },
     "imagesUrl": [
       [
         [
-          "https://github.com/Ariel0508/flavor-trail-react/blob/main/public/assets/images/home-4.jpg?raw=true"
+          [
+            "https://github.com/Ariel0508/flavor-trail-react/blob/main/public/assets/images/home-4.jpg?raw=true"
+          ]
         ]
       ]
     ],
